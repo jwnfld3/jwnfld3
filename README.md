@@ -4,8 +4,9 @@ This portfolio will showcase my hands-on experience with a variety of applicatio
 
 As I continue to grow my technical expertise, this portfolio also reflects my commitment to career advancement, showcasing my progress and development in the field. It highlights my dedication to enhancing my capabilities and advancing in my career as I work toward becoming a skilled IT professional.
 
-- <b>Cloud Security</b>
+- <b>Security</b>
   - [Secure Azure Identity Management with Conditional Access & MFA](https://github.com/jwnfld3/idmgmt.git)
+  - [Email Security and Protection](https://github.com/jwnfld3/email-security)
 - <b>IT Infrastructure</b>
   - [Deploying a Windows Server and Configuring Active Directory](https://github.com/jwnfld3/windows-server-setup) <b><i></b></i>
 - <b>PowerShell</b>
