@@ -7,7 +7,7 @@ As I continue to grow my technical expertise, this portfolio also reflects my co
 - <b>Security</b>
   - [Secure Azure Identity Management with Conditional Access & MFA](https://github.com/jwnfld3/idmgmt.git)
   - [Email Security and Protection](https://github.com/jwnfld3/email-security)
-- <b>IT Infrastructure</b>
+- <b>Infrastructure</b>
   - [Deploying a Windows Server and Configuring Active Directory](https://github.com/jwnfld3/windows-server-setup) <b><i></b></i>
 - <b>PowerShell</b>
   - [Managing and Analyzing System Logs with PowerShell](https://github.com/jwnfld3/sys-log)
