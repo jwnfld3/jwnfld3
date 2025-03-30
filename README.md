@@ -9,8 +9,7 @@ As I continue to grow my technical expertise, this portfolio also reflects my co
   - [Defender Email Security and Protection](https://github.com/jwnfld3/email-security)
 - <b>Infrastructure</b>
   - [Deploying a Windows Server and Configuring Active Directory](https://github.com/jwnfld3/windows-server-setup) <b><i></b></i>
-- <b>PowerShell</b>
-  - [Managing and Analyzing System Logs with PowerShell](https://github.com/jwnfld3/sys-log)
+
   
   
 
