@@ -7,6 +7,8 @@ As I continue to grow my technical expertise, this portfolio also reflects my co
 - <b>Azure</b>
   - [Identity Management with Conditional Access & MFA](https://github.com/jwnfld3/idmgmt.git)
   - [Disaster Recovery](https://github.com/jwnfld3/disaster-recovery.git)
+- <b>IT infrastructure</b>
+  - [Installing Windows Server 2022 on a Hyper-V Virtual Machine](https://github.com/jwnfld3/windows-server-setup-2022.git)
 
   
 
