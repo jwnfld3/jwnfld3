@@ -4,7 +4,7 @@ This portfolio will showcase my hands-on experience with a variety of applicatio
 
 As I continue to grow my technical expertise, this portfolio also reflects my commitment to career advancement, showcasing my progress and development in the field. It highlights my dedication to enhancing my capabilities and advancing in my career as I work toward becoming a skilled IT professional.
 
-- <b>Azure</b>
+- <b>Microsoft Azure</b>
   - [Identity Management with Conditional Access & MFA](https://github.com/jwnfld3/idmgmt.git)
   - [Entra ID Identity & Access Management (IAM)](https://github.com/jwnfld3/azure-access-mgmt/tree/main)
  
