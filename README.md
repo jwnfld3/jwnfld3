@@ -6,7 +6,7 @@ As I continue to grow my technical expertise, this portfolio also reflects my co
 
 - <b>Azure</b>
   - [Identity Management with Conditional Access & MFA](https://github.com/jwnfld3/idmgmt.git)
-  - [Entra ID Identity & Access Management (IAM)](https://github.com/jwnfld3/azure-access-mgmt/tree/main.git)
+  - [Entra ID Identity & Access Management (IAM)](https://github.com/jwnfld3/azure-access-mgmt/tree/main)
  
 - <b>IT infrastructure</b>
   - [Installing Windows Server 2022 on a Hyper-V Virtual Machine](https://github.com/jwnfld3/windows-server-setup-2022.git)
