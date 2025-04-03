@@ -13,6 +13,7 @@ As I continue to grow my technical expertise, this portfolio also reflects my co
 - <b>IT infrastructure</b>
   - [Installing Windows Server 2022 on a Hyper-V Virtual Machine](https://github.com/jwnfld3/windows-server-setup-2022.git)
   - [Setting Up Active Directory, DHCP, and DNS on Windows Server 2022](https://github.com/jwnfld3/setup-AD-DHCP-DNS.git)
+  - [Hybrid Azure AD Join for Windows Server 2022](https://github.com/jwnfld3/hybrid-azure-AD)
   - [Installing Windows 11 in Hyper-V](https://github.com/jwnfld3/windows11-hyper-v)
 
   
