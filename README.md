@@ -5,10 +5,10 @@ This portfolio will showcase my hands-on experience with a variety of applicatio
 As I continue to grow my technical expertise, this portfolio also reflects my commitment to career advancement, showcasing my progress and development in the field. It highlights my dedication to enhancing my capabilities and advancing in my career as I work toward becoming a skilled IT professional.
 
 - <b>Microsoft Azure</b>
+  -  [Configure Single Sign-On (SSO) for a SaaS Application using Microsoft Entra ID](https://github.com/jwnfld3/single-sign-on)
   - [Identity Management with Conditional Access & MFA](https://github.com/jwnfld3/idmgmt.git)
   - [Entra ID Identity & Access Management (IAM)](https://github.com/jwnfld3/azure-access-mgmt/tree/main)
   - [Azure Storage (Blob Storage)](https://github.com/jwnfld3/azure-blob-storage)
-  - [Configure Single Sign-On (SSO) for a SaaS Application using Microsoft Entra ID](https://github.com/jwnfld3/single-sign-on)
  
 - <b>IT infrastructure</b>
   - [Installing Windows Server 2022 on a Hyper-V Virtual Machine](https://github.com/jwnfld3/windows-server-setup-2022.git)
