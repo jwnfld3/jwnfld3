@@ -4,6 +4,13 @@ This portfolio will showcase my hands-on experience with a variety of applicatio
 
 As I continue to grow my technical expertise, this portfolio also reflects my commitment to career advancement, showcasing my progress and development in the field. It highlights my dedication to enhancing my capabilities and advancing in my career as I work toward becoming a skilled IT professional.
 
+## Home Lab
+ My home lab is built around Hyper-V for virtualization, allowing the creation and management of multiple virtual machines.
+
+***Windows Server Datacenter 2022:*** The server environment runs on Windows Server Datacenter 2022, providing a robust and scalable foundation for various services and configurations.
+
+***Three Windows 11 Virtual Machines:*** These VMs simulate different use cases and environments, helping test configurations, deployments, and other IT experiments.
+___
 - <b>Microsoft Azure</b>
   -  [Configure Single Sign-On (SSO) for a SaaS Application using Microsoft Entra ID](https://github.com/jwnfld3/single-sign-on)
   - [Identity Management with Conditional Access & MFA](https://github.com/jwnfld3/idmgmt.git)
