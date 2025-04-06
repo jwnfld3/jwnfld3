@@ -25,8 +25,8 @@ ___
   - [Hybrid Azure AD Join for Windows Server 2022](https://github.com/jwnfld3/hybrid-azure-AD)
   - [Installing Windows 11 in Hyper-V](https://github.com/jwnfld3/windows11-hyper-v)
 
-  - <b>Microsoft 365</b>
-   -[Set Up Microsoft 365 Groups](https://github.com/jwnfld3/m365-groups)
+- <b>Microsoft 365</b>
+    - [Set Up Microsoft 365 Groups](https://github.com/jwnfld3/m365-groups)
 
   
   
