@@ -13,6 +13,7 @@ As I continue to grow my technical expertise, this portfolio also reflects my co
 ___
 - <b>Microsoft Azure</b>
   -  [Configure Single Sign-On (SSO) for a SaaS Application using Microsoft Entra ID](https://github.com/jwnfld3/single-sign-on)
+  -  [Set Up a Virtual Network in Azure](https://github.com/jwnfld3/azure-vnet)
   - [Identity Management with Conditional Access & MFA](https://github.com/jwnfld3/idmgmt.git)
   - [Entra ID Identity & Access Management (IAM)](https://github.com/jwnfld3/azure-access-mgmt/tree/main)
   - [Azure Storage (Blob Storage)](https://github.com/jwnfld3/azure-blob-storage)
