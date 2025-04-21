@@ -20,7 +20,7 @@ ___
   - [Azure Storage (Blob Storage)](https://github.com/jwnfld3/azure-blob-storage)
   - [Onboard a New User in Azure with Microsoft Entra ID](https://github.com/jwnfld3/azure-user-onboarding)
  
-- <b>IT infrastructure</b>
+- <b>Core Infrastructure & Operating Systems</b>
   - [Installing Windows Server 2022 on a Hyper-V Virtual Machine](https://github.com/jwnfld3/windows-server-setup-2022.git)
   - [Install AD DS, DNS, DHCP, and File Services on Windows Server 2022](https://github.com/jwnfld3/installing-server-roles)
   - [Active Directory Group Management on Windows Server 2022](https://github.com/jwnfld3/group-policy)
