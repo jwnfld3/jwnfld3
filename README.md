@@ -32,6 +32,7 @@ ___
 - <b>Microsoft 365 Collaboration & Productivity</b>
     - [Set Up Microsoft 365 Groups](https://github.com/jwnfld3/m365-groups)
     - [Create a SharePoint Site](https://github.com/jwnfld3/sharepoint-team)
+    - [Creating a Shared Mailbox and Assigning Permissions in Microsoft 365](https://github.com/jwnfld3/shared-mailbox)
 
 - <b>Endpoint Security & Device Compliance</b>
    - [End-to-End Intune Device Management with Compliance, Updates, Risk Scoring & Defender Integration](https://github.com/jwnfld3/end-to-end-device-management)
