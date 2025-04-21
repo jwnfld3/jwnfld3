@@ -18,10 +18,10 @@ ___
   - [Active Directory Group Management on Windows Server 2022](https://github.com/jwnfld3/group-policy)
   - [Hybrid Azure AD Join for Windows Server 2022](https://github.com/jwnfld3/hybrid-azure-AD)
   - [Installing Windows 11 in Hyper-V](https://github.com/jwnfld3/windows11-hyper-v)
-
-- <b>Microsoft Azure</b>
-  -  [Configure Single Sign-On (SSO) for a SaaS Application using Microsoft Entra ID](https://github.com/jwnfld3/single-sign-on)
   -  [Set Up a Virtual Network in Azure](https://github.com/jwnfld3/azure-vnet)
+
+- <b>Cloud Identity & Access Management</b>
+  -  [Configure Single Sign-On (SSO) for a SaaS Application using Microsoft Entra ID](https://github.com/jwnfld3/single-sign-on)
   -  [Secure Secrets Management with Azure Key Vault](https://github.com/jwnfld3/secure-secrets-management)
   - [Implement Conditional Access & Multi-Factor Authentication (MFA)](https://github.com/jwnfld3/idmgmt.git)
   - [Entra ID Identity & Access Management (IAM)](https://github.com/jwnfld3/azure-access-mgmt/tree/main)
@@ -29,7 +29,7 @@ ___
   - [Onboard a New User in Azure with Microsoft Entra ID](https://github.com/jwnfld3/azure-user-onboarding)
 
 
-- <b>Microsoft 365</b>
+- <b>Microsoft 365 Collaboration & Productivity</b>
     - [Set Up Microsoft 365 Groups](https://github.com/jwnfld3/m365-groups)
     - [Create a SharePoint Site](https://github.com/jwnfld3/sharepoint-team)
 
