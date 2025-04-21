@@ -11,6 +11,14 @@ As I continue to grow my technical expertise, this portfolio also reflects my co
 
 ***Three Windows 11 Virtual Machines:*** These VMs simulate different use cases and environments, helping test configurations, deployments, and other IT experiments.
 ___
+
+- <b>Core Infrastructure & Operating Systems</b>
+  - [Installing Windows Server 2022 on a Hyper-V Virtual Machine](https://github.com/jwnfld3/windows-server-setup-2022.git)
+  - [Install AD DS, DNS, DHCP, and File Services on Windows Server 2022](https://github.com/jwnfld3/installing-server-roles)
+  - [Active Directory Group Management on Windows Server 2022](https://github.com/jwnfld3/group-policy)
+  - [Hybrid Azure AD Join for Windows Server 2022](https://github.com/jwnfld3/hybrid-azure-AD)
+  - [Installing Windows 11 in Hyper-V](https://github.com/jwnfld3/windows11-hyper-v)
+
 - <b>Microsoft Azure</b>
   -  [Configure Single Sign-On (SSO) for a SaaS Application using Microsoft Entra ID](https://github.com/jwnfld3/single-sign-on)
   -  [Set Up a Virtual Network in Azure](https://github.com/jwnfld3/azure-vnet)
@@ -19,13 +27,7 @@ ___
   - [Entra ID Identity & Access Management (IAM)](https://github.com/jwnfld3/azure-access-mgmt/tree/main)
   - [Azure Storage (Blob Storage)](https://github.com/jwnfld3/azure-blob-storage)
   - [Onboard a New User in Azure with Microsoft Entra ID](https://github.com/jwnfld3/azure-user-onboarding)
- 
-- <b>Core Infrastructure & Operating Systems</b>
-  - [Installing Windows Server 2022 on a Hyper-V Virtual Machine](https://github.com/jwnfld3/windows-server-setup-2022.git)
-  - [Install AD DS, DNS, DHCP, and File Services on Windows Server 2022](https://github.com/jwnfld3/installing-server-roles)
-  - [Active Directory Group Management on Windows Server 2022](https://github.com/jwnfld3/group-policy)
-  - [Hybrid Azure AD Join for Windows Server 2022](https://github.com/jwnfld3/hybrid-azure-AD)
-  - [Installing Windows 11 in Hyper-V](https://github.com/jwnfld3/windows11-hyper-v)
+
 
 - <b>Microsoft 365</b>
     - [Set Up Microsoft 365 Groups](https://github.com/jwnfld3/m365-groups)
