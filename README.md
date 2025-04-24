@@ -29,7 +29,6 @@ ___
   - [Onboard a New User in Azure with Microsoft Entra ID](https://github.com/jwnfld3/azure-user-onboarding)
 
 - <b>Microsoft Intune</b>
-   - [Add a Local Administrator Account via Intune Configuration Profile](https://github.com/jwnfld3/add-local-admin-account)
    - [Create and Deploy a Configuration Profile for Windows Devices](https://github.com/jwnfld3/configuration-profile-deployment)
 
 
