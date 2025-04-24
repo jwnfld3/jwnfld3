@@ -30,6 +30,7 @@ ___
 
 - <b>Microsoft Intune</b>
    - [Add a Local Administrator Account via Intune Configuration Profile](https://github.com/jwnfld3/add-local-admin-account)
+   - [Create and Deploy a Configuration Profile for Windows Devices](https://github.com/jwnfld3/configuration-profile-deployment)
 
 
 - <b>Microsoft 365 Collaboration & Productivity</b>
