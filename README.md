@@ -27,7 +27,7 @@ ___
   - [Entra ID Identity & Access Management (IAM)](https://github.com/jwnfld3/azure-access-mgmt/tree/main)
   - [Azure Storage (Blob Storage)](https://github.com/jwnfld3/azure-blob-storage)
   - [Onboard a New User in Azure with Microsoft Entra ID](https://github.com/jwnfld3/azure-user-onboarding)
-  - [User Onboarding and Device Enrollment via Microsoft Intune](https://github.com/jwnfld3/M365-user-onboarding)
+  - [Microsoft 365 Admin Center User Onboarding and Device Enrollment via Microsoft Intune](https://github.com/jwnfld3/M365-user-onboarding)
 
 - <b>Microsoft Intune</b>
    - [Create and Deploy a Configuration Profile for Windows Devices](https://github.com/jwnfld3/configuration-profile-deployment)
