@@ -41,7 +41,8 @@ ___
 - <b>Endpoint Security & Device Compliance</b>
    - [End-to-End Intune Device Management with Compliance, Updates, Risk Scoring & Defender Integration](https://github.com/jwnfld3/end-to-end-device-management)
   
-
+- <b>SQL Server</b>
+   - [Create a Customer Database](https://github.com/jwnfld3/sql-database-creation)
 
 
 <!--
