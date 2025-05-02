@@ -43,6 +43,7 @@ ___
   
 - <b>SQL Server</b>
    - [Create a Customer Database](https://github.com/jwnfld3/sql-database-creation)
+   - [Insert and Query Data](https://github.com/jwnfld3/insert-and-query-data)
 
 
 <!--
