@@ -46,7 +46,8 @@ ___
    - [Insert and Query Data](https://github.com/jwnfld3/insert-and-query-data)
    - [Filtering and Sorting Data](https://github.com/jwnfld3/filtering-and-sorting-data)
 
-
+-<b>Cybersecurity</b>
+   - [Digital Forensics](https://github.com/jwnfld3/digital-forensics-steganalysis-lab)
 <!--
 
 
