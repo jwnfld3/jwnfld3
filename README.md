@@ -1,6 +1,5 @@
 # James Winfield
 Information Technology Support | Microsoft 365 | Identity and Access Management | Endpoint Management
-
 This portfolio showcases hands on lab projects focused on Information Technology support, systems administration, identity and access management, endpoint management, and security investigations.
 
 The goal of these projects is to simulate real world business environments where IT professionals are responsible for managing users, securing systems, troubleshooting technical issues, and maintaining enterprise infrastructure.
@@ -61,34 +60,70 @@ VPN Connectivity Troubleshooting
 ## Featured Projects
 
 ### Hybrid Identity Security Incident Investigation
+
+![Windows Server](https://img.shields.io/badge/Windows%20Server-2022-blue)
+![Active Directory](https://img.shields.io/badge/Active%20Directory-Domain%20Services-red)
+![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-Administration-green)
+![Entra ID](https://img.shields.io/badge/Microsoft-Entra%20ID-purple)
+![Intune](https://img.shields.io/badge/Microsoft-Intune-orange)
+
 Investigated suspicious authentication activity in a hybrid Microsoft environment using Active Directory, Microsoft Entra ID, Microsoft 365, and Microsoft Intune. The investigation included authentication log analysis, incident containment, and identity security hardening.
 
 Project Link  
 https://github.com/jwnfld3/hybrid-identity-security-incident-investigation
 
+---
 
 ### Active Directory Infrastructure Deployment
+
+![Windows Server](https://img.shields.io/badge/Windows%20Server-2022-blue)
+![Active Directory](https://img.shields.io/badge/Active%20Directory-Domain%20Services-red)
+![DNS](https://img.shields.io/badge/DNS-Network%20Service-yellow)
+![DHCP](https://img.shields.io/badge/DHCP-Network%20Service-green)
+![Group Policy](https://img.shields.io/badge/Group%20Policy-Management-blue)
+
 Deployed a Windows Server 2022 domain environment including Active Directory Domain Services, DNS, DHCP, and Group Policy. Windows 11 client systems were joined to the domain to simulate enterprise authentication and centralized administration.
 
 Project Link  
 https://github.com/jwnfld3/active-directory-infrastructure-lab
 
+---
 
 ### Microsoft Intune Endpoint Management
+
+![Microsoft Intune](https://img.shields.io/badge/Microsoft-Intune-orange)
+![Windows 11](https://img.shields.io/badge/Windows-11-blue)
+![Endpoint Management](https://img.shields.io/badge/Endpoint-Management-lightgrey)
+![Device Compliance](https://img.shields.io/badge/Device-Compliance-yellow)
+
 Configured enterprise style endpoint management using Microsoft Intune including device enrollment, compliance policies, and centralized management of Windows client systems.
 
 Project Link  
 https://github.com/jwnfld3/intune-endpoint-management-lab
 
+---
 
 ### Microsoft Entra ID Identity and Access Management
-Configured identity protection features including Conditional Access policies, Multi Factor Authentication, and user authentication monitoring within a Microsoft 365 environment.
+
+![Entra ID](https://img.shields.io/badge/Microsoft-Entra%20ID-purple)
+![Conditional Access](https://img.shields.io/badge/Conditional-Access-blue)
+![Multi Factor Auth](https://img.shields.io/badge/MFA-Security-red)
+![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-Identity-green)
+
+Configured identity protection features including Conditional Access policies and Multi Factor Authentication to protect user accounts in a Microsoft 365 environment.
 
 Project Link  
 https://github.com/jwnfld3/entra-id-access-management
 
+---
 
 ### Microsoft 365 Administration Lab
+
+![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-Administration-green)
+![Exchange Online](https://img.shields.io/badge/Exchange-Online-blue)
+![SharePoint](https://img.shields.io/badge/SharePoint-Collaboration-lightblue)
+![User Management](https://img.shields.io/badge/User-Management-orange)
+
 Configured core Microsoft 365 services including Exchange Online and SharePoint administration. The project demonstrates user provisioning, license management, mailbox configuration, and collaboration service management.
 
 Project Link  
