@@ -214,6 +214,37 @@ This structure demonstrates both technical capability and the ability to documen
 - <b>Cybersecurity</b>
    - [Digital Forensics](https://github.com/jwnfld3/digital-forensics-steganalysis-lab)
 
+## Professional Development Roadmap
+
+The following areas represent technologies and skills currently being developed through hands-on labs and technical documentation.
+
+### Identity and Access Management
+Active Directory administration  
+Microsoft Entra ID identity protection  
+Conditional Access policy design  
+Authentication log investigation
+
+### Endpoint Management
+Microsoft Intune device enrollment  
+Endpoint compliance policy configuration  
+Mobile device management workflows
+
+### Infrastructure Administration
+Windows Server 2022 administration  
+DNS and DHCP configuration  
+Group Policy management  
+Virtualization with Hyper-V
+
+### Cloud Administration
+Microsoft 365 service configuration  
+Exchange Online administration  
+SharePoint permission management
+
+### Security and Monitoring
+Authentication log analysis  
+Security incident investigation  
+Multi-Factor Authentication enforcement  
+Account compromise response procedures
 <!--
 
 
