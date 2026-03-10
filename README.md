@@ -5,6 +5,59 @@ This portfolio showcases hands on lab projects focused on Information Technology
 
 The goal of these projects is to simulate real world business environments where IT professionals are responsible for managing users, securing systems, troubleshooting technical issues, and maintaining enterprise infrastructure.
 
+## Technical Skills
+
+### Operating Systems
+Windows 10  
+Windows 11  
+Windows Server 2022
+
+### Cloud Platforms
+Microsoft 365  
+Microsoft Azure  
+Google Workspace
+
+### Identity and Access Management
+Microsoft Entra ID  
+Active Directory Domain Services  
+User and Group Administration  
+Multi Factor Authentication  
+Conditional Access Policies  
+Authentication Monitoring
+
+### Endpoint Management
+Microsoft Intune  
+Device Enrollment  
+Endpoint Compliance Policies  
+Mobile Device Management
+
+### Infrastructure Services
+Active Directory  
+DNS (Domain Name System)  
+DHCP (Dynamic Host Configuration Protocol)  
+Group Policy Management
+
+### Microsoft 365 Administration
+Exchange Online  
+SharePoint Online  
+User Provisioning  
+License Management  
+Collaboration Services Administration
+
+### Security and Monitoring
+Security Log Analysis  
+Account Compromise Investigation  
+Phishing Analysis  
+Authentication Event Monitoring  
+Endpoint Security Practices
+
+### IT Support and Troubleshooting
+User Account Troubleshooting  
+Email Configuration and Troubleshooting  
+Network Connectivity Troubleshooting  
+Printer Troubleshooting  
+VPN Connectivity Troubleshooting
+___
 Technologies used throughout these projects include Microsoft 365, Microsoft Entra ID, Microsoft Intune, Windows Server, Active Directory, Azure, SharePoint, Exchange Online, SQL Server, and cybersecurity analysis tools.
 
 Each project is documented step by step to demonstrate troubleshooting methodology, technical reasoning, and professional documentation practices commonly used in enterprise IT environments.
