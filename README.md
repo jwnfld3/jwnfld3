@@ -8,12 +8,11 @@ Technologies used throughout these projects include Microsoft 365, Microsoft Ent
 
 Each project is documented step by step to demonstrate troubleshooting methodology, technical reasoning, and professional documentation practices commonly used in enterprise IT environments.
 
-## Home Lab
- My home lab is built around Hyper-V for virtualization, allowing the creation and management of multiple virtual machines.
+## Home Lab Environment
 
-***Windows Server Datacenter 2022:*** The server environment runs on Windows Server Datacenter 2022, providing a robust and scalable foundation for various services and configurations.
+<img width="983" height="672" alt="image" src="https://github.com/user-attachments/assets/751dd2c7-ca37-4aa8-b4ef-c9cf04b3ceb3" />
 
-***Three Windows 11 Virtual Machines:*** These VMs simulate different use cases and environments, helping test configurations, deployments, and other IT experiments.
+The lab environment is built using Microsoft Hyper-V virtualization to simulate a small enterprise network. This environment supports infrastructure configuration, identity management testing, endpoint management, and security analysis across both on-premises systems and cloud services.
 ___
 
 - <b>Core Infrastructure & Operating Systems</b>
