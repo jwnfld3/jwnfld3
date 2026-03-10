@@ -1,8 +1,12 @@
 # Hi, I'm James!
 
-This portfolio will showcase my hands-on experience with a variety of applications, all built and configured through my home lab. I designed this lab to go beyond typical home operating systems and dive deep into Microsoft applications, expanding my skill set and gaining practical expertise. Each project represents a step in my journey of learning and experimentation, as I explore and master new technologies to solve real-world problems.
+This portfolio showcases hands on lab projects focused on Information Technology support, systems administration, identity and access management, endpoint management, and security investigations.
 
-As I continue to grow my technical expertise, this portfolio also reflects my commitment to career advancement, showcasing my progress and development in the field. It highlights my dedication to enhancing my capabilities and advancing in my career as I work toward becoming a skilled IT professional.
+The goal of these projects is to simulate real world business environments where IT professionals are responsible for managing users, securing systems, troubleshooting technical issues, and maintaining enterprise infrastructure.
+
+Technologies used throughout these projects include Microsoft 365, Microsoft Entra ID, Microsoft Intune, Windows Server, Active Directory, Azure, SharePoint, Exchange Online, SQL Server, and cybersecurity analysis tools.
+
+Each project is documented step by step to demonstrate troubleshooting methodology, technical reasoning, and professional documentation practices commonly used in enterprise IT environments.
 
 ## Home Lab
  My home lab is built around Hyper-V for virtualization, allowing the creation and management of multiple virtual machines.
