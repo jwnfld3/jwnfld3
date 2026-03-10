@@ -137,7 +137,7 @@ ___
 <p align="center">
 <img width="800" height="672" alt="image" src="https://github.com/user-attachments/assets/751dd2c7-ca37-4aa8-b4ef-c9cf04b3ceb3" />
 
-## Architecture and Operations
+## Lab Architecture and Operations
 
 The lab environment simulates a small enterprise infrastructure combining on premises services with cloud identity and endpoint management.
 
@@ -150,6 +150,18 @@ Cloud services are integrated through Microsoft 365 and Microsoft Entra ID. Iden
 Endpoint management is performed through Microsoft Intune, allowing devices to be enrolled, configured, and monitored using centralized management policies.
 
 This hybrid environment allows realistic simulation of common enterprise Information Technology operations including identity administration, device management, infrastructure deployment, security monitoring, and user support scenarios.
+
+## Core Lab Technologies
+
+Hyper V Virtualization  
+Windows Server 2022  
+Active Directory Domain Services  
+DNS  
+DHCP  
+Microsoft 365  
+Microsoft Entra ID  
+Microsoft Intune  
+Windows 11 Clients
 ___
 
 - <b>Core Infrastructure & Operating Systems</b>
