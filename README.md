@@ -57,6 +57,42 @@ Email Configuration and Troubleshooting
 Network Connectivity Troubleshooting  
 Printer Troubleshooting  
 VPN Connectivity Troubleshooting
+
+## Featured Projects
+
+### Hybrid Identity Security Incident Investigation
+Investigated suspicious authentication activity in a hybrid Microsoft environment using Active Directory, Microsoft Entra ID, Microsoft 365, and Microsoft Intune. The investigation included authentication log analysis, incident containment, and identity security hardening.
+
+Project Link  
+https://github.com/jwnfld3/hybrid-identity-security-incident-investigation
+
+
+### Active Directory Infrastructure Deployment
+Deployed a Windows Server 2022 domain environment including Active Directory Domain Services, DNS, DHCP, and Group Policy. Windows 11 client systems were joined to the domain to simulate enterprise authentication and centralized administration.
+
+Project Link  
+https://github.com/jwnfld3/active-directory-infrastructure-lab
+
+
+### Microsoft Intune Endpoint Management
+Configured enterprise style endpoint management using Microsoft Intune including device enrollment, compliance policies, and centralized management of Windows client systems.
+
+Project Link  
+https://github.com/jwnfld3/intune-endpoint-management-lab
+
+
+### Microsoft Entra ID Identity and Access Management
+Configured identity protection features including Conditional Access policies, Multi Factor Authentication, and user authentication monitoring within a Microsoft 365 environment.
+
+Project Link  
+https://github.com/jwnfld3/entra-id-access-management
+
+
+### Microsoft 365 Administration Lab
+Configured core Microsoft 365 services including Exchange Online and SharePoint administration. The project demonstrates user provisioning, license management, mailbox configuration, and collaboration service management.
+
+Project Link  
+https://github.com/jwnfld3/microsoft-365-administration-lab
 ___
 Technologies used throughout these projects include Microsoft 365, Microsoft Entra ID, Microsoft Intune, Windows Server, Active Directory, Azure, SharePoint, Exchange Online, SQL Server, and cybersecurity analysis tools.
 
