@@ -7,12 +7,23 @@ The goal of these projects is to simulate real world business environments where
 Technologies used throughout these projects include Microsoft 365, Microsoft Entra ID, Microsoft Intune, Windows Server, Active Directory, Azure, SharePoint, Exchange Online, SQL Server, and cybersecurity analysis tools.
 
 Each project is documented step by step to demonstrate troubleshooting methodology, technical reasoning, and professional documentation practices commonly used in enterprise IT environments.
-
-## Home Lab Environment
+___
 <p align="center">
 <img width="800" height="672" alt="image" src="https://github.com/user-attachments/assets/751dd2c7-ca37-4aa8-b4ef-c9cf04b3ceb3" />
 
-The lab environment is built using Microsoft Hyper-V virtualization to simulate a small enterprise network. This environment supports infrastructure configuration, identity management testing, endpoint management, and security analysis across both on-premises systems and cloud services.
+## Lab Architecture and Operations
+
+The lab environment simulates a small enterprise infrastructure combining on premises services with cloud identity and endpoint management.
+
+Core infrastructure services are hosted on Windows Server Datacenter 2022 using Hyper V virtualization. The server environment provides Active Directory Domain Services, Domain Name System, and Dynamic Host Configuration Protocol for centralized authentication and network management.
+
+Client systems consist of Windows 11 virtual machines joined to the domain and used to simulate enterprise workstation environments. These systems are used to test authentication workflows, policy enforcement, endpoint management, and troubleshooting scenarios.
+
+Cloud services are integrated through Microsoft 365 and Microsoft Entra ID. Identity management, security policies, and collaboration services are administered through the Microsoft 365 platform.
+
+Endpoint management is performed through Microsoft Intune, allowing devices to be enrolled, configured, and monitored using centralized management policies.
+
+This hybrid environment allows realistic simulation of common enterprise Information Technology operations including identity administration, device management, infrastructure deployment, security monitoring, and user support scenarios.
 ___
 
 - <b>Core Infrastructure & Operating Systems</b>
