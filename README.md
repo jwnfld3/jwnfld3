@@ -9,8 +9,8 @@ Technologies used throughout these projects include Microsoft 365, Microsoft Ent
 Each project is documented step by step to demonstrate troubleshooting methodology, technical reasoning, and professional documentation practices commonly used in enterprise IT environments.
 
 ## Home Lab Environment
-
-<img width="983" height="672" alt="image" src="https://github.com/user-attachments/assets/751dd2c7-ca37-4aa8-b4ef-c9cf04b3ceb3" />
+<p align="center">
+<img width="800" height="672" alt="image" src="https://github.com/user-attachments/assets/751dd2c7-ca37-4aa8-b4ef-c9cf04b3ceb3" />
 
 The lab environment is built using Microsoft Hyper-V virtualization to simulate a small enterprise network. This environment supports infrastructure configuration, identity management testing, endpoint management, and security analysis across both on-premises systems and cloud services.
 ___
