@@ -65,7 +65,7 @@ ___
 <p align="center">
 <img width="800" height="672" alt="image" src="https://github.com/user-attachments/assets/751dd2c7-ca37-4aa8-b4ef-c9cf04b3ceb3" />
 
-## Lab Architecture and Operations
+## Architecture and Operations
 
 The lab environment simulates a small enterprise infrastructure combining on premises services with cloud identity and endpoint management.
 
