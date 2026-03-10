@@ -177,6 +177,9 @@ Lessons learned
 
 This structure demonstrates both technical capability and the ability to document solutions clearly for operational use within technical teams.
 
+- <b>Security Investigation</b>
+- [Enterprise Identity Security Investigation](https://github.com/jwnfld3/enterprise-identity-incident-investigation)
+
 - <b>Operational Support</b>
   - [Enterprise Help Desk Ticket Resolution](https://github.com/jwnfld3/enterprise-helpdesk-ticket-lab)
     
