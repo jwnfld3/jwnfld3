@@ -164,6 +164,19 @@ Microsoft Intune
 Windows 11 Clients
 ___
 
+## Documentation Approach
+
+Each project in this portfolio follows a consistent documentation format similar to internal Information Technology documentation used in enterprise environments.
+
+Overview  
+Scenario  
+Environment  
+Configuration or investigation steps  
+Results  
+Lessons learned
+
+This structure demonstrates both technical capability and the ability to document solutions clearly for operational use within technical teams.
+
 - <b>Core Infrastructure & Operating Systems</b>
   - [Installing Windows Server 2022 on a Hyper-V Virtual Machine](https://github.com/jwnfld3/windows-server-setup-2022.git)
   - [Install AD DS, DNS, DHCP, and File Services on Windows Server 2022](https://github.com/jwnfld3/installing-server-roles)
