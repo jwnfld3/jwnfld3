@@ -177,6 +177,9 @@ Lessons learned
 
 This structure demonstrates both technical capability and the ability to document solutions clearly for operational use within technical teams.
 
+- <b>Operational Support</b>
+  - [Enterprise Help Desk Ticket Resolution](https://github.com/jwnfld3/enterprise-helpdesk-ticket-lab)
+    
 - <b>Core Infrastructure & Operating Systems</b>
   - [Installing Windows Server 2022 on a Hyper-V Virtual Machine](https://github.com/jwnfld3/windows-server-setup-2022.git)
   - [Install AD DS, DNS, DHCP, and File Services on Windows Server 2022](https://github.com/jwnfld3/installing-server-roles)
