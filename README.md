@@ -1,110 +1,152 @@
-James Winfield
+# James Winfield
+
 Information Technology Support professional with experience in Microsoft 365 administration, identity and access management, and endpoint management. This portfolio showcases hands on lab projects focused on systems administration, enterprise identity management, endpoint management, and security investigation within Microsoft enterprise environments.
 
 The objective of these projects is to simulate real world business environments where IT professionals manage user identities, secure systems, troubleshoot technical issues, and maintain enterprise infrastructure across modern cloud and hybrid environments.
 
+---
+
 These projects are designed to simulate real world enterprise environments where IT professionals manage user accounts, secure systems, troubleshoot technical issues, and maintain enterprise infrastructure.
 
-Technical Skills
-Operating Systems
-Windows 10
-Windows 11
-Windows Server 2022
+---
 
-Cloud Platforms
-Microsoft 365
-Microsoft Azure
-Google Workspace
+# Technical Skills
 
-Identity and Access Management
-Microsoft Entra ID
-Active Directory Domain Services
-User and Group Administration
-Multi Factor Authentication
-Conditional Access Policies
-Authentication Monitoring
+## Operating Systems
+Windows 10  
+Windows 11  
+Windows Server 2022  
 
-Endpoint Management
-Microsoft Intune
-Device Enrollment
-Endpoint Compliance Policies
-Mobile Device Management
+## Cloud Platforms
+Microsoft 365  
+Microsoft Azure  
+Google Workspace  
 
-Infrastructure Services
-Active Directory
-DNS (Domain Name System)
-DHCP (Dynamic Host Configuration Protocol)
-Group Policy Management
+## Identity and Access Management
+Microsoft Entra ID  
+Active Directory Domain Services  
+User and Group Administration  
+Multi Factor Authentication  
+Conditional Access Policies  
+Authentication Monitoring  
 
-Microsoft 365 Administration
-Exchange Online
-SharePoint Online
-User Provisioning
-License Management
-Collaboration Services Administration
+## Endpoint Management
+Microsoft Intune  
+Device Enrollment  
+Endpoint Compliance Policies  
+Mobile Device Management  
 
-Security and Monitoring
-Security Log Analysis
-Account Compromise Investigation
-Phishing Analysis
-Authentication Event Monitoring
-Endpoint Security Practices
+## Infrastructure Services
+Active Directory  
+DNS (Domain Name System)  
+DHCP (Dynamic Host Configuration Protocol)  
+Group Policy Management  
 
-IT Support and Troubleshooting
-User Account Troubleshooting
-Email Configuration and Troubleshooting
-Network Connectivity Troubleshooting
-Printer Troubleshooting
-VPN Connectivity Troubleshooting
+## Microsoft 365 Administration
+Exchange Online  
+SharePoint Online  
+User Provisioning  
+License Management  
+Collaboration Services Administration  
 
-Featured Projects
-Enterprise Identity Security Incident Investigation
-Windows Server Active Directory Microsoft Entra ID Microsoft 365 Security Incident Response
+## Security and Monitoring
+Security Log Analysis  
+Account Compromise Investigation  
+Phishing Analysis  
+Authentication Event Monitoring  
+Endpoint Security Practices  
+
+## IT Support and Troubleshooting
+User Account Troubleshooting  
+Email Configuration and Troubleshooting  
+Network Connectivity Troubleshooting  
+Printer Troubleshooting  
+VPN Connectivity Troubleshooting  
+
+---
+
+# Featured Projects
+
+## Enterprise Identity Security Incident Investigation
+
+Windows Server  
+Active Directory  
+Microsoft Entra ID  
+Microsoft 365 Security  
+Incident Response  
 
 Investigated a simulated enterprise identity security incident involving suspicious authentication activity across Active Directory and Microsoft Entra ID environments. The project demonstrates authentication log analysis, identification of compromise indicators, structured incident response procedures, and identity security hardening within a Microsoft 365 enterprise environment.
 
-Project Link
+**Project Link**  
 https://github.com/jwnfld3/enterprise-identity-incident-investigation
 
-Active Directory Infrastructure Deployment
-Windows Server Active Directory DNS DHCP Group Policy
+---
+
+## Active Directory Infrastructure Deployment
+
+Windows Server  
+Active Directory  
+DNS  
+DHCP  
+Group Policy  
 
 Deployed a Windows Server 2022 domain environment by installing and configuring Active Directory Domain Services, DNS, DHCP, and Group Policy. Windows 11 client systems were joined to the domain to simulate enterprise authentication, centralized management, and core network services within a Microsoft domain infrastructure.
 
-Project Link
+**Project Link**  
 https://github.com/jwnfld3/installing-server-roles
 
-Microsoft Intune Configuration Profile Deployment
-Microsoft Intune Windows 11 Endpoint Management Device Compliance
+---
+
+## Microsoft Intune Configuration Profile Deployment
+
+Microsoft Intune  
+Windows 11  
+Endpoint Management  
+Device Compliance  
 
 Configured enterprise endpoint management using Microsoft Intune by deploying configuration profiles to Windows 11 devices. The project demonstrates device enrollment, policy deployment, compliance enforcement, and centralized administration of enterprise endpoints through cloud based device management.
 
-Project Link
+**Project Link**  
 https://github.com/jwnfld3/configuration-profile-deployment
 
-Microsoft Entra ID Identity and Access Management
-Microsoft Entra ID Conditional Access Multi Factor Authentication Identity and Access Management
+---
+
+## Microsoft Entra ID Identity and Access Management
+
+Microsoft Entra ID  
+Conditional Access  
+Multi Factor Authentication  
+Identity and Access Management  
 
 Configured identity protection controls in Microsoft Entra ID including Conditional Access policies and Multi Factor Authentication to protect user authentication in a Microsoft 365 environment.
 
-Project Link
+**Project Link**  
 https://github.com/jwnfld3/azure-access-mgmt
 
-Microsoft 365 Shared Mailbox Administration
-Microsoft 365 Exchange Online Shared Mailbox User Management
+---
+
+## Microsoft 365 Shared Mailbox Administration
+
+Microsoft 365  
+Exchange Online  
+Shared Mailbox  
+User Management  
 
 Configured and managed shared mailboxes in Microsoft 365 using Exchange Online administration tools. The project demonstrates mailbox creation, permission assignment, and centralized email management to support collaborative communication across organizational teams.
 
-Project Link
+**Project Link**  
 https://github.com/jwnfld3/shared-mailbox
+
+---
 
 Technologies used throughout these projects include Microsoft 365, Microsoft Entra ID, Microsoft Intune, Windows Server, Active Directory, Azure, SharePoint, Exchange Online, SQL Server, and cybersecurity analysis tools.
 
 Each project is documented step by step to demonstrate troubleshooting methodology, technical reasoning, and professional documentation practices commonly used in enterprise IT environments.
 
-image
+---
 
-Lab Architecture and Operations
+# Lab Architecture and Operations
+
 The lab environment simulates a small enterprise infrastructure combining on premises services with cloud identity and endpoint management.
 
 Core infrastructure services are hosted on Windows Server Datacenter 2022 using Hyper V virtualization. The server environment provides Active Directory Domain Services, Domain Name System, and Dynamic Host Configuration Protocol for centralized authentication and network management.
@@ -117,26 +159,32 @@ Endpoint management is performed through Microsoft Intune, allowing devices to b
 
 This hybrid environment allows realistic simulation of common enterprise Information Technology operations including identity administration, device management, infrastructure deployment, security monitoring, and user support scenarios.
 
-Core Lab Technologies
-Hyper V Virtualization
-Windows Server 2022
-Active Directory Domain Services
-DNS
-DHCP
-Microsoft 365
-Microsoft Entra ID
-Microsoft Intune
-Windows 11 Clients
+---
 
-Documentation Approach
+# Core Lab Technologies
+
+Hyper V Virtualization  
+Windows Server 2022  
+Active Directory Domain Services  
+DNS  
+DHCP  
+Microsoft 365  
+Microsoft Entra ID  
+Microsoft Intune  
+Windows 11 Clients  
+
+---
+
+# Documentation Approach
+
 Each project in this portfolio follows a consistent documentation format similar to internal Information Technology documentation used in enterprise environments.
 
-Overview
-Scenario
-Environment
-Configuration or investigation steps
-Results
-Lessons learned
+Overview  
+Scenario  
+Environment  
+Configuration or investigation steps  
+Results  
+Lessons learned  
 
 This structure demonstrates both technical capability and the ability to document solutions clearly for operational use within technical teams.
 
