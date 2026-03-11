@@ -114,7 +114,7 @@ Project Link
 Configured identity protection features including Conditional Access policies and Multi Factor Authentication to protect user accounts in a Microsoft 365 environment.
 
 Project Link  
-https://github.com/jwnfld3/entra-id-access-management
+(https://github.com/jwnfld3/azure-access-mgmt/tree/main)
 
 ---
 
