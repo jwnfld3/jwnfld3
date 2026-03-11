@@ -6,7 +6,7 @@
 |--------|------|
 | Security Investigation | [View](#security-investigation) |
 | Operational Support | [View](#operational-support) |
-| Infrastructure | [View](#core-infrastructure--operating-systems) |
+| Infrastructure | [View](#Core Infrastructure & Operating Systems) |
 | Cloud Identity | [View](#cloud-identity--access-management) |
 
 ---
