@@ -1,6 +1,19 @@
 # James Winfield
 
+## Portfolio Navigation
+
+| Section | Jump |
+|--------|------|
+| Security Investigation | [View](#security-investigation) |
+| Operational Support | [View](#operational-support) |
+| Infrastructure | [View](#core-infrastructure--operating-systems) |
+| Cloud Identity | [View](#cloud-identity--access-management) |
+
+---
+
 Information Technology Support professional with experience in Microsoft 365 administration, identity and access management, and endpoint management. This portfolio showcases hands on lab projects focused on systems administration, enterprise identity management, endpoint management, and security investigation within Microsoft enterprise environments.
+
+The objective of these projects is to simulate real world business environments where IT professionals manage user identities, secure systems, troubleshoot technical issues, and maintain enterprise infrastructure across modern cloud and hybrid environments.
 
 ---
 
@@ -137,19 +150,19 @@ Phishing Analysis
 
 # Full Portfolio Project Index
 
-## Security Investigation
+# Security Investigation
 
 - [Enterprise Identity Security Investigation](https://github.com/jwnfld3/enterprise-identity-incident-investigation)
 
 ---
 
-## Operational Support
+# Operational Support
 
 - [Enterprise Help Desk Ticket Resolution](https://github.com/jwnfld3/enterprise-helpdesk-ticket-lab)
 
 ---
 
-## Core Infrastructure & Operating Systems
+# Core Infrastructure & Operating Systems
 
 - [Installing Windows Server 2022 on a Hyper-V Virtual Machine](https://github.com/jwnfld3/windows-server-setup-2022)
 
@@ -165,7 +178,7 @@ Phishing Analysis
 
 ---
 
-## Cloud Identity & Access Management
+# Cloud Identity & Access Management
 
 - [Configure Single Sign-On (SSO) for a SaaS Application using Microsoft Entra ID](https://github.com/jwnfld3/single-sign-on)
 
@@ -183,13 +196,13 @@ Phishing Analysis
 
 ---
 
-## Microsoft Intune
+# Microsoft Intune
 
 - [Create and Deploy a Configuration Profile for Windows Devices](https://github.com/jwnfld3/configuration-profile-deployment)
 
 ---
 
-## Microsoft 365 Collaboration & Productivity
+# Microsoft 365 Collaboration & Productivity
 
 - [Set Up Microsoft 365 Groups](https://github.com/jwnfld3/m365-groups)
 
@@ -199,13 +212,13 @@ Phishing Analysis
 
 ---
 
-## Endpoint Security & Device Compliance
+# Endpoint Security & Device Compliance
 
 - [End-to-End Intune Device Management with Compliance, Updates, Risk Scoring & Defender Integration](https://github.com/jwnfld3/end-to-end-device-management)
 
 ---
 
-## SQL Server
+# SQL Server
 
 - [Create a Customer Database](https://github.com/jwnfld3/sql-database-creation)
 
@@ -215,7 +228,7 @@ Phishing Analysis
 
 ---
 
-## Cybersecurity
+# Cybersecurity
 
 - [Digital Forensics](https://github.com/jwnfld3/digital-forensics-steganalysis-lab)
 
