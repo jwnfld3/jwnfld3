@@ -86,7 +86,7 @@ Project Link
 Deployed a Windows Server 2022 domain environment by installing and configuring Active Directory Domain Services, DNS, DHCP, and Group Policy. Windows 11 client systems were joined to the domain to simulate enterprise authentication, centralized management, and core network services within a Microsoft domain infrastructure.
 
 Project Link  
-https://github.com/jwnfld3/active-directory-infrastructure-lab
+[https://github.com/jwnfld3/active-directory-infrastructure-lab](https://github.com/jwnfld3/installing-server-roles)
 
 ---
 
