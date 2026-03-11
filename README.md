@@ -83,7 +83,7 @@ Project Link
 ![DHCP](https://img.shields.io/badge/DHCP-Network%20Service-green)
 ![Group Policy](https://img.shields.io/badge/Group%20Policy-Management-blue)
 
-Deployed a Windows Server 2022 domain environment including Active Directory Domain Services, DNS, DHCP, and Group Policy. Windows 11 client systems were joined to the domain to simulate enterprise authentication and centralized administration.
+Deployed a Windows Server 2022 domain environment by installing and configuring Active Directory Domain Services, DNS, DHCP, and Group Policy. Windows 11 client systems were joined to the domain to simulate enterprise authentication, centralized management, and core network services within a Microsoft domain infrastructure.
 
 Project Link  
 https://github.com/jwnfld3/active-directory-infrastructure-lab
