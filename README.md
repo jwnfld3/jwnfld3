@@ -60,7 +60,7 @@ VPN Connectivity Troubleshooting
 
 ## Featured Projects
 
-### Hybrid Identity Security Incident Investigation
+### Enterprise Identity Security Incident Investigation
 
 ![Windows Server](https://img.shields.io/badge/Windows%20Server-2022-blue)
 ![Active Directory](https://img.shields.io/badge/Active%20Directory-Domain%20Services-red)
