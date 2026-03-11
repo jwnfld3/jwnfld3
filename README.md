@@ -68,10 +68,10 @@ VPN Connectivity Troubleshooting
 ![Entra ID](https://img.shields.io/badge/Microsoft-Entra%20ID-purple)
 ![Intune](https://img.shields.io/badge/Microsoft-Intune-orange)
 
-Investigated suspicious authentication activity in a hybrid Microsoft environment using Active Directory, Microsoft Entra ID, Microsoft 365, and Microsoft Intune. The investigation included authentication log analysis, incident containment, and identity security hardening.
+Investigated a simulated enterprise identity security incident involving suspicious authentication activity across Active Directory and Microsoft Entra ID environments. The project demonstrates authentication log analysis, identification of potential compromise indicators, structured incident response procedures, and identity security hardening within a Microsoft 365 enterprise environment.
 
 Project Link  
-https://github.com/jwnfld3/hybrid-identity-security-incident-investigation
+[https://github.com/jwnfld3/hybrid-identity-security-incident-investigation](https://github.com/jwnfld3/enterprise-identity-incident-investigation)
 
 ---
 
