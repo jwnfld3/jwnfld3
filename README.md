@@ -1,6 +1,7 @@
 # James Winfield
-Information Technology Support | Microsoft 365 | Identity and Access Management | Endpoint Management
-This portfolio showcases hands on lab projects focused on Information Technology support, systems administration, identity and access management, endpoint management, and security investigations.
+Information Technology Support professional with experience in Microsoft 365 administration, identity and access management, and endpoint management. This portfolio showcases hands on lab projects focused on systems administration, enterprise identity management, endpoint management, and security investigation within Microsoft enterprise environments.
+
+The objective of these projects is to simulate real world business environments where IT professionals manage user identities, secure systems, troubleshoot technical issues, and maintain enterprise infrastructure across modern cloud and hybrid environments.
 ___
 
 The goal of these projects is to simulate real world business environments where IT professionals are responsible for managing users, securing systems, troubleshooting technical issues, and maintaining enterprise infrastructure.
