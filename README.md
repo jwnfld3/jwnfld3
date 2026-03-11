@@ -6,7 +6,7 @@
 |--------|------|
 | Security Investigation | [View](#security-investigation) |
 | Operational Support | [View](#operational-support) |
-| Infrastructure | [View](#Core Infrastructure & Operating Systems) |
+| Infrastructure | [View](#Infrastructure) |
 | Cloud Identity | [View](#cloud-identity--access-management) |
 
 ---
@@ -162,7 +162,7 @@ Phishing Analysis
 
 ---
 
-# Core Infrastructure & Operating Systems
+# Infrastructure
 
 - [Installing Windows Server 2022 on a Hyper-V Virtual Machine](https://github.com/jwnfld3/windows-server-setup-2022)
 
