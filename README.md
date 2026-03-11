@@ -63,15 +63,15 @@ VPN Connectivity Troubleshooting
 ### Enterprise Identity Security Incident Investigation
 
 ![Windows Server](https://img.shields.io/badge/Windows%20Server-2022-blue)
-![Active Directory](https://img.shields.io/badge/Active%20Directory-Domain%20Services-red)
-![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-Administration-green)
-![Entra ID](https://img.shields.io/badge/Microsoft-Entra%20ID-purple)
-![Intune](https://img.shields.io/badge/Microsoft-Intune-orange)
+![Active Directory](https://img.shields.io/badge/Active%20Directory-Identity-red)
+![Microsoft Entra ID](https://img.shields.io/badge/Microsoft-Entra%20ID-purple)
+![Microsoft 365 Security](https://img.shields.io/badge/Microsoft%20365-Security-green)
+![Incident Response](https://img.shields.io/badge/Incident-Response-orange)
 
-Investigated a simulated enterprise identity security incident involving suspicious authentication activity across Active Directory and Microsoft Entra ID environments. The project demonstrates authentication log analysis, identification of potential compromise indicators, structured incident response procedures, and identity security hardening within a Microsoft 365 enterprise environment.
+Investigated a simulated enterprise identity security incident involving suspicious authentication activity across Active Directory and Microsoft Entra ID environments. The project demonstrates authentication log analysis, identification of compromise indicators, structured incident response procedures, and identity security hardening within a Microsoft 365 enterprise environment.
 
 Project Link  
-[https://github.com/jwnfld3/hybrid-identity-security-incident-investigation](https://github.com/jwnfld3/enterprise-identity-incident-investigation)
+https://github.com/jwnfld3/enterprise-identity-incident-investigation
 
 ---
 
@@ -86,7 +86,7 @@ Project Link
 Deployed a Windows Server 2022 domain environment by installing and configuring Active Directory Domain Services, DNS, DHCP, and Group Policy. Windows 11 client systems were joined to the domain to simulate enterprise authentication, centralized management, and core network services within a Microsoft domain infrastructure.
 
 Project Link  
-[https://github.com/jwnfld3/active-directory-infrastructure-lab](https://github.com/jwnfld3/installing-server-roles)
+https://github.com/jwnfld3/installing-server-roles
 
 ---
 
@@ -97,24 +97,24 @@ Project Link
 ![Endpoint Management](https://img.shields.io/badge/Endpoint-Management-lightgrey)
 ![Device Compliance](https://img.shields.io/badge/Device-Compliance-yellow)
 
-Configured enterprise endpoint management using Microsoft Intune by deploying configuration profiles to Windows 11 devices. The project demonstrates device enrollment, policy assignment, compliance management, and centralized administration of enterprise endpoints through cloud based device management.
+Configured enterprise endpoint management using Microsoft Intune by deploying configuration profiles to Windows 11 devices. The project demonstrates device enrollment, policy deployment, compliance enforcement, and centralized administration of enterprise endpoints through cloud based device management.
 
 Project Link  
-(https://github.com/jwnfld3/configuration-profile-deployment)
+https://github.com/jwnfld3/configuration-profile-deployment
 
 ---
 
 ### Microsoft Entra ID Identity and Access Management
 
-![Entra ID](https://img.shields.io/badge/Microsoft-Entra%20ID-purple)
+![Microsoft Entra ID](https://img.shields.io/badge/Microsoft-Entra%20ID-purple)
 ![Conditional Access](https://img.shields.io/badge/Conditional-Access-blue)
-![Multi Factor Auth](https://img.shields.io/badge/MFA-Security-red)
-![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-Identity-green)
+![Multi Factor Authentication](https://img.shields.io/badge/MFA-Security-red)
+![Identity and Access Management](https://img.shields.io/badge/IAM-Identity-green)
 
-Configured identity protection features including Conditional Access policies and Multi Factor Authentication to protect user accounts in a Microsoft 365 environment.
+Configured identity protection controls in Microsoft Entra ID including Conditional Access policies and Multi Factor Authentication to protect user authentication in a Microsoft 365 environment.
 
 Project Link  
-(https://github.com/jwnfld3/azure-access-mgmt/tree/main)
+https://github.com/jwnfld3/azure-access-mgmt
 
 ---
 
@@ -122,13 +122,13 @@ Project Link
 
 ![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-Administration-green)
 ![Exchange Online](https://img.shields.io/badge/Exchange-Online-blue)
-![SharePoint](https://img.shields.io/badge/SharePoint-Collaboration-lightblue)
+![Shared Mailbox](https://img.shields.io/badge/Shared-Mailbox-lightblue)
 ![User Management](https://img.shields.io/badge/User-Management-orange)
 
 Configured and managed shared mailboxes in Microsoft 365 using Exchange Online administration tools. The project demonstrates mailbox creation, permission assignment, and centralized email management to support collaborative communication across organizational teams.
 
 Project Link  
-(https://github.com/jwnfld3/shared-mailbox)
+https://github.com/jwnfld3/shared-mailbox
 ___
 Technologies used throughout these projects include Microsoft 365, Microsoft Entra ID, Microsoft Intune, Windows Server, Active Directory, Azure, SharePoint, Exchange Online, SQL Server, and cybersecurity analysis tools.
 
