@@ -1,16 +1,5 @@
 # James Winfield
 
-## Portfolio Navigation
-
-| Section | Jump |
-|--------|------|
-| Security Investigation | [View](#security-investigation) |
-| Operational Support | [View](#operational-support) |
-| Infrastructure | [View](#Infrastructure) |
-| Cloud Identity | [View](#cloud-identity--access-management) |
-
----
-
 Information Technology Support professional with experience in Microsoft 365 administration, identity and access management, and endpoint management. This portfolio showcases hands on lab projects focused on systems administration, enterprise identity management, endpoint management, and security investigation within Microsoft enterprise environments.
 
 The objective of these projects is to simulate real world business environments where IT professionals manage user identities, secure systems, troubleshoot technical issues, and maintain enterprise infrastructure across modern cloud and hybrid environments.
@@ -153,7 +142,9 @@ Phishing Analysis
 # Security Investigation
 
 - [Enterprise Identity Security Investigation](https://github.com/jwnfld3/enterprise-identity-incident-investigation)
-
+- [MFA Fatigue Attack Investigation](https://github.com/jwnfld3/enterprise-identity-incident-investigation/blob/main/incidents/incident-002-mfa-fatigue-attack.md)
+- [Conditional Access Policy Block Investigation](https://github.com/jwnfld3/enterprise-identity-incident-investigation/blob/main/incidents/incident-005-conditional-access-block.md)
+- [Password Spray Attack Investigation](https://github.com/jwnfld3/enterprise-identity-incident-investigation/blob/main/incidents/incident-006-password-spray-attack.md)
 ---
 
 # Operational Support
