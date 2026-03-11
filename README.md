@@ -4,7 +4,7 @@ Information Technology Support professional with experience in Microsoft 365 adm
 The objective of these projects is to simulate real world business environments where IT professionals manage user identities, secure systems, troubleshoot technical issues, and maintain enterprise infrastructure across modern cloud and hybrid environments.
 ___
 
-The goal of these projects is to simulate real world business environments where IT professionals are responsible for managing users, securing systems, troubleshooting technical issues, and maintaining enterprise infrastructure.
+These projects are designed to simulate real world enterprise environments where IT professionals manage user accounts, secure systems, troubleshoot technical issues, and maintain enterprise infrastructure.
 
 ## Technical Skills
 
