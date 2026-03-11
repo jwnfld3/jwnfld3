@@ -179,7 +179,15 @@ Lessons learned
 This structure demonstrates both technical capability and the ability to document solutions clearly for operational use within technical teams.
 
 - <b>Security Investigation</b>
+
   - [Enterprise Identity Security Investigation](https://github.com/jwnfld3/enterprise-identity-incident-investigation)
+    - Multi incident investigation including MFA fatigue attacks, impossible travel alerts, and password spray attempts.
+
+  - [Microsoft 365 Account Compromise Investigation](https://github.com/jwnfld3/m365-account-compromise-investigation)
+    - Investigation of suspicious authentication activity and mailbox rule persistence.
+
+  - [Cloud Data Exfiltration Investigation](https://github.com/jwnfld3/cloud-data-exfiltration-investigation)
+    - Analysis of abnormal SharePoint and OneDrive activity indicating potential data exfiltration.
 
 - <b>Operational Support</b>
   - [Enterprise Help Desk Ticket Resolution](https://github.com/jwnfld3/enterprise-helpdesk-ticket-lab)
