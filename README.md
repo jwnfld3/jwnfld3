@@ -217,11 +217,6 @@ Phishing Analysis
 
 - [Filtering and Sorting Data](https://github.com/jwnfld3/filtering-and-sorting-data)
 
----
-
-# Cybersecurity
-
-- [Digital Forensics](https://github.com/jwnfld3/digital-forensics-steganalysis-lab)
 
 
 # Lab Architecture and Operations
