@@ -90,17 +90,17 @@ Project Link
 
 ---
 
-### Microsoft Intune Endpoint Management
+### Microsoft Intune Configuration Profile Deployment
 
 ![Microsoft Intune](https://img.shields.io/badge/Microsoft-Intune-orange)
 ![Windows 11](https://img.shields.io/badge/Windows-11-blue)
 ![Endpoint Management](https://img.shields.io/badge/Endpoint-Management-lightgrey)
 ![Device Compliance](https://img.shields.io/badge/Device-Compliance-yellow)
 
-Configured enterprise style endpoint management using Microsoft Intune including device enrollment, compliance policies, and centralized management of Windows client systems.
+Configured enterprise endpoint management using Microsoft Intune by deploying configuration profiles to Windows 11 devices. The project demonstrates device enrollment, policy assignment, compliance management, and centralized administration of enterprise endpoints through cloud based device management.
 
 Project Link  
-https://github.com/jwnfld3/intune-endpoint-management-lab
+(https://github.com/jwnfld3/configuration-profile-deployment)
 
 ---
 
