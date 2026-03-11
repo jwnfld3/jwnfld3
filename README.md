@@ -118,17 +118,17 @@ https://github.com/jwnfld3/entra-id-access-management
 
 ---
 
-### Microsoft 365 Administration Lab
+### Microsoft 365 Shared Mailbox Administration
 
 ![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-Administration-green)
 ![Exchange Online](https://img.shields.io/badge/Exchange-Online-blue)
 ![SharePoint](https://img.shields.io/badge/SharePoint-Collaboration-lightblue)
 ![User Management](https://img.shields.io/badge/User-Management-orange)
 
-Configured core Microsoft 365 services including Exchange Online and SharePoint administration. The project demonstrates user provisioning, license management, mailbox configuration, and collaboration service management.
+Configured and managed shared mailboxes in Microsoft 365 using Exchange Online administration tools. The project demonstrates mailbox creation, permission assignment, and centralized email management to support collaborative communication across organizational teams.
 
 Project Link  
-https://github.com/jwnfld3/microsoft-365-administration-lab
+(https://github.com/jwnfld3/shared-mailbox)
 ___
 Technologies used throughout these projects include Microsoft 365, Microsoft Entra ID, Microsoft Intune, Windows Server, Active Directory, Azure, SharePoint, Exchange Online, SQL Server, and cybersecurity analysis tools.
 
