@@ -139,7 +139,7 @@ Phishing Analysis
 
 # Full Portfolio Project Index
 
-# Security Investigation
+# [Security Investigation](https://github.com/jwnfld3/enterprise-identity-incident-investigation)
 
 - [Enterprise Identity Security Investigation](https://github.com/jwnfld3/enterprise-identity-incident-investigation)
 - [MFA Fatigue Attack Investigation](https://github.com/jwnfld3/enterprise-identity-incident-investigation/blob/main/incidents/incident-002-mfa-fatigue-attack.md)
