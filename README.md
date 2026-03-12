@@ -135,9 +135,8 @@ Phishing Analysis
 
 ---
 
----
+## Full Portfolio Project Index
 
-# Full Portfolio Project Index
 
 This repository demonstrates enterprise identity security investigations,
 detection engineering, and incident response procedures using Microsoft
