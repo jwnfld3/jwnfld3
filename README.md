@@ -139,12 +139,21 @@ Phishing Analysis
 
 # Full Portfolio Project Index
 
-# [Security Incident Investigation Catalog](https://github.com/jwnfld3/enterprise-identity-incident-investigation)
+This repository demonstrates enterprise identity security investigations,
+detection engineering, and incident response procedures using Microsoft
+Entra ID, Microsoft 365, and Microsoft Sentinel.
 
-- [Enterprise Identity Security Investigation](https://github.com/jwnfld3/enterprise-identity-incident-investigation)
-- [MFA Fatigue Attack Investigation](https://github.com/jwnfld3/enterprise-identity-incident-investigation/blob/main/incidents/incident-002-mfa-fatigue-attack.md)
-- [Conditional Access Policy Block Investigation](https://github.com/jwnfld3/enterprise-identity-incident-investigation/blob/main/incidents/incident-005-conditional-access-block.md)
-- [Password Spray Attack Investigation](https://github.com/jwnfld3/enterprise-identity-incident-investigation/blob/main/incidents/incident-006-password-spray-attack.md)
+## Security Incident Investigation Dashboard
+
+| Case Identifier | Investigation | Severity | MITRE ATT&CK Technique | Status | Investigation Report |
+|--------|---------------|----------|------------------------|--------|---------------------|
+| CASE-001 | Password Spray Attack | High | T1110.003 Password Spraying | Resolved | [View Investigation](https://github.com/jwnfld3/enterprise-identity-incident-investigation/blob/main/case-files/case-001-password-spray.md) |
+| CASE-002 | Enterprise Identity Compromise | Critical | T1078 Valid Accounts | Resolved | [View Investigation](https://github.com/jwnfld3/enterprise-identity-incident-investigation/blob/main/case-files/case-002-identity-compromise.md) |
+| CASE-003 | MFA Fatigue Attack | High | T1621 Multi-Factor Authentication Request Generation | Resolved | [View Investigation](https://github.com/jwnfld3/enterprise-identity-incident-investigation/blob/main/case-files/case-003-mfa-fatigue.md) |
+| CASE-004 | Impossible Travel Authentication | Medium | T1078 Valid Accounts | Resolved | [View Investigation](https://github.com/jwnfld3/enterprise-identity-incident-investigation/blob/main/case-files/case-004-impossible-travel.md) |
+| CASE-005 | Phishing Authentication Attempt | High | T1566 Phishing | Resolved | [View Investigation](https://github.com/jwnfld3/enterprise-identity-incident-investigation/blob/main/case-files/case-005-phishing-login.md) |
+| CASE-006 | Authentication Token Theft | High | T1528 Steal Application Access Token | Resolved | [View Investigation](https://github.com/jwnfld3/enterprise-identity-incident-investigation/blob/main/case-files/case-006-token-theft.md) |
+| CASE-007 | Data Exfiltration Activity | Critical | T1041 Exfiltration Over Command and Control Channel | Resolved | [View Investigation](https://github.com/jwnfld3/enterprise-identity-incident-investigation/blob/main/case-files/case-007-data-exfiltration.md) |
 ---
 
 # Operational Support
