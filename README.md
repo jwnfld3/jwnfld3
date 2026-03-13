@@ -1,139 +1,131 @@
 # James Winfield
 
-Identity Security | Security Operations | Microsoft 365 Administration | IT Support
+Security Operations | Identity Security | Microsoft Cloud Security
 
-Enterprise Identity Security Investigations | Microsoft Cloud Security | SOC Investigation Portfolio
-
-![Microsoft Sentinel](https://img.shields.io/badge/Microsoft-Sentinel-green)
-![Microsoft Entra ID](https://img.shields.io/badge/Microsoft-Entra%20ID-purple)
-![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-Administration-blue)
-![Microsoft Intune](https://img.shields.io/badge/Microsoft-Intune-orange)
-![Active Directory](https://img.shields.io/badge/Active%20Directory-Domain%20Services-red)
-![Windows Server](https://img.shields.io/badge/Windows%20Server-2022-blue)
+Hands-on cybersecurity portfolio focused on identity-based threat detection, Microsoft Sentinel investigations, and incident response playbooks within Microsoft cloud environments.
 
 ---
 
-## Professional Summary
+## Security Specializations
 
-Security focused IT professional with experience supporting Microsoft cloud environments, identity and access management workflows, and enterprise troubleshooting. This portfolio demonstrates hands on identity security investigations, authentication log analysis, and incident response style documentation using Microsoft Entra ID, Microsoft 365, and Microsoft Sentinel.
-
-Projects in this portfolio simulate enterprise environments and demonstrate structured investigation techniques aligned with modern security operations practices.
+Identity Security Investigation  
+Authentication Threat Detection  
+Microsoft Sentinel Log Analysis  
+MITRE ATT&CK Mapping  
+Incident Response Documentation  
+Microsoft Entra ID Security Monitoring  
 
 ---
 
-## Security and Infrastructure Technologies
+## Core Security Technologies
 
 | Category | Technologies |
-|----------|-------------|
+|:---------|:-------------|
 | Identity Security | Microsoft Entra ID, Identity and Access Management |
 | Security Monitoring | Microsoft Sentinel, Microsoft Defender |
 | Cloud Security | Microsoft 365 Security |
-| Query and Log Analysis | Kusto Query Language (KQL) |
-| Infrastructure | Active Directory, Windows Server Administration |
+| Log Analysis | Kusto Query Language (KQL) |
+| Infrastructure | Active Directory, Windows Server |
 
 ---
 
-## Technical Skills
+# Featured Security Investigation Project
 
-| Category | Skills |
-|--------|--------|
-| Security Operations | Identity Security Investigation, Authentication Log Analysis, Threat Detection Concepts, Security Event Investigation |
-| Identity and Access Management | Microsoft Entra ID Administration, Active Directory User and Group Management, Multi Factor Authentication, Conditional Access |
-| Cloud Platforms | Microsoft 365, Microsoft Azure, Microsoft Entra ID |
-| Endpoint Management | Microsoft Intune, Device Compliance Policies, Device Enrollment, Endpoint Configuration |
-| Infrastructure Services | Active Directory Domain Services, DNS, DHCP, Group Policy |
-| Microsoft 365 Administration | Exchange Online, SharePoint Online, Microsoft Teams, User Provisioning, License Management |
-| Operating Systems | Windows 10, Windows 11, Windows Server 2022 |
-| IT Support and Troubleshooting | Microsoft 365 Issue Resolution, Network Connectivity Troubleshooting, User Account Support, Printer and Device Support |
+## Enterprise Identity Security Incident Investigation
 
----
+This project demonstrates structured SOC-style investigations of identity-based attacks including password spraying, MFA fatigue attacks, phishing authentication attempts, and impossible travel login activity.
 
-## Portfolio Projects
+The repository contains investigation case files, detection engineering examples, and incident response playbooks designed to simulate real-world identity security incidents within Microsoft cloud environments.
 
-| Project | Focus | Repository |
-|--------|------|------|
-| Enterprise Identity Security Incident Investigation | Identity security investigation, authentication monitoring, and threat analysis using Microsoft Entra ID and Microsoft Sentinel | https://github.com/jwnfld3/enterprise-identity-incident-investigation |
-| Enterprise Helpdesk Ticket Lab | Enterprise IT troubleshooting scenarios across Microsoft 365, identity management, endpoint compliance, and network connectivity | https://github.com/jwnfld3/enterprise-helpdesk-ticket-lab |
+Key capabilities demonstrated:
 
----
+• Authentication log analysis  
+• Detection engineering using KQL  
+• MITRE ATT&CK technique mapping  
+• Incident response playbooks  
+• Security investigation documentation  
 
-## Featured Security Project
-
-### Enterprise Identity Security Incident Investigation
-
-Repository  
+Project Repository  
 https://github.com/jwnfld3/enterprise-identity-incident-investigation
 
-This project simulates enterprise identity security investigations within Microsoft cloud environments. The lab demonstrates authentication monitoring, investigation of suspicious sign in activity, and structured incident documentation for identity related security events.
+---
 
-Investigation scenarios are mapped to MITRE ATT&CK techniques and reflect common identity based attack patterns observed in enterprise environments.
+## Security Investigation Dashboard
 
-Focus areas include:
+View the investigation case tracker documenting simulated identity-based security incidents.
 
-Identity security investigation  
-Authentication event analysis  
-Threat detection concepts  
-Incident documentation workflow  
-Security remediation planning  
+Investigation Dashboard  
+https://github.com/jwnfld3/enterprise-identity-incident-investigation/blob/main/README.md
+
+Example investigations include:
+
+• Password Spray Attack Investigation  
+• Identity Compromise Investigation  
+• MFA Fatigue Attack Investigation  
+• Impossible Travel Authentication Investigation  
+• Phishing Authentication Attempt Investigation  
+• Authentication Token Theft Investigation  
+• Data Exfiltration Activity Investigation  
+
+Each case documents investigation workflow, evidence collection, MITRE ATT&CK mapping, and remediation actions.
 
 ---
 
-## Enterprise Helpdesk Operations Lab
+## Incident Response Playbooks
 
-Repository  
-https://github.com/jwnfld3/enterprise-helpdesk-ticket-lab
+The following playbooks document investigation and remediation procedures for identity-based security incidents simulated within this lab environment.
 
-This project simulates enterprise helpdesk ticket scenarios within Microsoft 365 environments. The lab demonstrates structured troubleshooting workflows for common support issues including identity access problems, endpoint compliance alerts, network connectivity failures, and collaboration platform issues.
+These procedures were developed while studying Microsoft security documentation, the MITRE ATT&CK framework, and Microsoft Sentinel investigation workflows. Each playbook represents the structured response process used during the simulated investigations documented in this repository.
 
-Focus areas include:
-
-Microsoft 365 troubleshooting  
-User provisioning workflows  
-Endpoint compliance investigation  
-Network connectivity troubleshooting  
-Enterprise support documentation  
-
----
-
-## Documentation Approach
-
-Projects in this portfolio follow structured documentation practices similar to enterprise IT environments.
-
-Each investigation or support case includes:
-
-Overview  
-Scenario description  
-Environment configuration  
-Investigation or troubleshooting steps  
-Resolution actions  
-Lessons learned  
-
-This approach demonstrates the ability to communicate technical processes clearly and maintain professional documentation standards.
+| Playbook | Description | MITRE ATT&CK Technique | Playbook |
+|:---------|:-------------|:----------------------|:---------|
+| Conditional Access Policy Block Remediation | Procedures for blocking suspicious authentication activity using Conditional Access policies | Defense Evasion / Initial Access | [View Playbook](https://github.com/jwnfld3/enterprise-identity-incident-investigation/blob/main/playbooks/conditional-access-policy-block-remediation.md) |
+| Data Exfiltration Investigation Remediation | Investigation and remediation procedures for suspected data exfiltration activity | T1041 Exfiltration Over Command and Control Channel | [View Playbook](https://github.com/jwnfld3/enterprise-identity-incident-investigation/blob/main/playbooks/data-exfiltration-investigation-remediation.md) |
+| Identity Compromise Remediation | Response procedures for compromised user identities and unauthorized access | T1078 Valid Accounts | [View Playbook](https://github.com/jwnfld3/enterprise-identity-incident-investigation/blob/main/playbooks/identity-compromise-remediation.md) |
+| Impossible Travel Login Remediation | Investigation procedures for logins originating from geographically distant locations within a short timeframe | T1078 Valid Accounts | [View Playbook](https://github.com/jwnfld3/enterprise-identity-incident-investigation/blob/main/playbooks/impossible-travel-login-remediation.md) |
+| MFA Fatigue Attack Remediation | Investigation and mitigation procedures for repeated MFA authentication prompts | T1621 Multi-Factor Authentication Request Generation | [View Playbook](https://github.com/jwnfld3/enterprise-identity-incident-investigation/blob/main/playbooks/mfa-fatigue-attack-incident-remediation.md) |
+| Password Spray Attack Remediation | Investigation and containment procedures for password spray authentication attempts | T1110.003 Password Spraying | [View Playbook](https://github.com/jwnfld3/enterprise-identity-incident-investigation/blob/main/playbooks/password-spray-attack-remediation.md) |
+| Phishing Attack Remediation | Investigation procedures for phishing-based authentication attempts targeting user credentials | T1566 Phishing | [View Playbook](https://github.com/jwnfld3/enterprise-identity-incident-investigation/blob/main/playbooks/phishing-attack-remediation.md) |
 
 ---
 
-## Portfolio Focus
+### Documentation Sources
 
-### Identity Security
+The investigation techniques and remediation procedures documented in these playbooks were developed through review of publicly available cybersecurity documentation and vendor guidance.
 
-Authentication monitoring  
-Identity threat investigation  
-Security log analysis  
-MITRE ATT&CK aligned investigations  
+Primary resources used include:
 
-### Enterprise IT Support
+Microsoft Sentinel Documentation  
+https://learn.microsoft.com/en-us/azure/sentinel/
 
-Microsoft 365 troubleshooting  
-Identity and access management  
-Endpoint management  
-Network and connectivity troubleshooting  
+Microsoft Entra ID Sign-in Log Documentation  
+https://learn.microsoft.com/en-us/entra/identity/monitoring-health/concept-sign-ins
+
+Kusto Query Language Documentation  
+https://learn.microsoft.com/en-us/azure/data-explorer/kusto/query/
+
+Microsoft Entra Conditional Access Documentation  
+https://learn.microsoft.com/en-us/entra/identity/conditional-access/
+
+MITRE ATT&CK Enterprise Matrix  
+https://attack.mitre.org/matrices/enterprise/
+
+These resources were used to understand how security analysts investigate authentication activity, analyze identity security alerts, and develop structured response procedures for identity-based threats.
 
 ---
 
-## Connect
+## Current Focus
 
-LinkedIn  
-https://www.linkedin.com/in/james-winfield3
+Building practical experience in:
 
-GitHub  
-https://github.com/jwnfld3
+Identity threat detection  
+Security investigation workflows  
+Microsoft Sentinel query development  
+Incident response documentation  
+Authentication log analysis  
+
+---
+
+## Portfolio Goal
+
+This portfolio is designed to demonstrate hands-on experience investigating identity-based threats within Microsoft cloud environments and documenting structured incident response procedures aligned with industry frameworks such as MITRE ATT&CK.
