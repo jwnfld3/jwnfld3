@@ -157,7 +157,27 @@ Entra ID, Microsoft 365, and Microsoft Sentinel.
 
 # Operational Support
 
-- [Enterprise Help Desk Ticket Resolution](https://github.com/jwnfld3/enterprise-helpdesk-ticket-lab)
+| Ticket ID | Issue | Category | Priority | Status |
+|-----------|-------|----------|----------|--------|
+| [HD-001](https://github.com/jwnfld3/enterprise-helpdesk-ticket-lab/blob/main/tickets/ticket-001-m365-login.md) | Microsoft 365 Login Failure | Identity and Access Management | ![Medium](https://img.shields.io/badge/Priority-Medium-yellow) | ![Resolved](https://img.shields.io/badge/Status-Resolved-brightgreen) |
+| [HD-002](https://github.com/jwnfld3/enterprise-helpdesk-ticket-lab/blob/main/tickets/ticket-002-user-onboarding.md) | New Employee Account Provisioning | User Account Provisioning | ![Low](https://img.shields.io/badge/Priority-Low-blue) | ![Resolved](https://img.shields.io/badge/Status-Resolved-brightgreen) |
+| [HD-003](https://github.com/jwnfld3/enterprise-helpdesk-ticket-lab/blob/main/tickets/ticket-003-printer-issue.md) | Department Printer Not Responding | Infrastructure / Printing | ![Medium](https://img.shields.io/badge/Priority-Medium-yellow) | ![Resolved](https://img.shields.io/badge/Status-Resolved-brightgreen) |
+| [HD-004](https://github.com/jwnfld3/enterprise-helpdesk-ticket-lab/blob/main/tickets/ticket-004-intune-compliance.md) | Intune Device Non Compliant | Endpoint Management | ![Medium](https://img.shields.io/badge/Priority-Medium-yellow) | ![Resolved](https://img.shields.io/badge/Status-Resolved-brightgreen) |
+| [HD-005](https://github.com/jwnfld3/enterprise-helpdesk-ticket-lab/blob/main/tickets/ticket-005-security-alert.md) | Suspicious Login Alert | Security Incident | ![High](https://img.shields.io/badge/Priority-High-red) | ![Resolved](https://img.shields.io/badge/Status-Resolved-brightgreen) |
+| [HD-006](https://github.com/jwnfld3/enterprise-helpdesk-ticket-lab/blob/main/tickets/ticket-006-outlook-mailbox-connection.md) | Outlook Unable to Connect to Mailbox | Microsoft 365 / Email Services | ![Medium](https://img.shields.io/badge/Priority-Medium-yellow) | ![Resolved](https://img.shields.io/badge/Status-Resolved-brightgreen) |
+| [HD-007](https://github.com/jwnfld3/enterprise-helpdesk-ticket-lab/blob/main/tickets/ticket-007-shared-drive-access.md) | User Unable to Access Shared Drive | Active Directory / File Services | ![Medium](https://img.shields.io/badge/Priority-Medium-yellow) | ![Resolved](https://img.shields.io/badge/Status-Resolved-brightgreen) |
+| [HD-008](https://github.com/jwnfld3/enterprise-helpdesk-ticket-lab/blob/main/tickets/ticket-008-vpn-connection-failure.md) | VPN Connection Failure for Remote User | Network Access / Remote Connectivity | ![High](https://img.shields.io/badge/Priority-High-red) | ![Resolved](https://img.shields.io/badge/Status-Resolved-brightgreen) |
+| [HD-009](https://github.com/jwnfld3/enterprise-helpdesk-ticket-lab/blob/main/tickets/ticket-009-teams-sign-in-failure.md) | Microsoft Teams Sign In Failure | Microsoft 365 / Collaboration | ![Medium](https://img.shields.io/badge/Priority-Medium-yellow) | ![Resolved](https://img.shields.io/badge/Status-Resolved-brightgreen) |
+| [HD-010](https://github.com/jwnfld3/enterprise-helpdesk-ticket-lab/blob/main/tickets/ticket-010-dns-resolution-failure.md) | DNS Name Resolution Failure | Network Infrastructure | ![High](https://img.shields.io/badge/Priority-High-red) | ![Resolved](https://img.shields.io/badge/Status-Resolved-brightgreen) |
+| [HD-011](https://github.com/jwnfld3/enterprise-helpdesk-ticket-lab/blob/main/tickets/ticket-011-ad-password-reset.md) | User Unable to Reset Password | Identity and Access Management | ![Medium](https://img.shields.io/badge/Priority-Medium-yellow) | ![Resolved](https://img.shields.io/badge/Status-Resolved-brightgreen) |
+| [HD-012](https://github.com/jwnfld3/enterprise-helpdesk-ticket-lab/blob/main/tickets/ticket-012-windows-update-failure.md) | Windows Update Installation Failure | Endpoint Management | ![Medium](https://img.shields.io/badge/Priority-Medium-yellow) | ![Resolved](https://img.shields.io/badge/Status-Resolved-brightgreen) |
+| [HD-013](https://github.com/jwnfld3/enterprise-helpdesk-ticket-lab/blob/main/tickets/ticket-013-intune-device-enrollment.md) | Device Enrollment Failure in Intune | Endpoint Management | ![Medium](https://img.shields.io/badge/Priority-Medium-yellow) | ![Resolved](https://img.shields.io/badge/Status-Resolved-brightgreen) |
+| [HD-014](https://github.com/jwnfld3/enterprise-helpdesk-ticket-lab/blob/main/tickets/ticket-014-sharepoint-permission-issue.md) | SharePoint Site Permission Issue | Microsoft 365 / SharePoint | ![Medium](https://img.shields.io/badge/Priority-Medium-yellow) | ![Resolved](https://img.shields.io/badge/Status-Resolved-brightgreen) |
+| [HD-015](https://github.com/jwnfld3/enterprise-helpdesk-ticket-lab/blob/main/tickets/ticket-015-wifi-authentication-failure.md) | Wireless Network Authentication Failure | Network Connectivity | ![High](https://img.shields.io/badge/Priority-High-red) | ![Resolved](https://img.shields.io/badge/Status-Resolved-brightgreen) |
+
+
+---
+
 
 ---
 
