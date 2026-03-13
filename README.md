@@ -111,7 +111,7 @@ https://attack.mitre.org/
 
 The sections below contain the full investigation documentation, detection logic, and remediation procedures used throughout this lab environment.
 
-These sections provide deeper technical detail for each investigation scenario.
+These sections provide deeper technical detail for each investigation scenario, including detection queries, authentication log analysis, investigation case files, and incident response playbooks.
 
 ---
 
