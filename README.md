@@ -195,22 +195,24 @@ The goal of this project was to learn how Security Operations Center analysts in
 ---
 
 
-# Documentation Sources
+## Documentation Sources
 
-The investigation techniques and remediation procedures documented in this repository were developed through review of publicly available cybersecurity documentation and vendor guidance.
+The investigation techniques and remediation procedures documented in this repository were developed through review of publicly available cybersecurity documentation and official Microsoft security guidance. These resources provide detailed information on monitoring authentication activity, analyzing security logs, creating detection queries, and implementing identity protection controls within Microsoft cloud environments.
 
-## Microsoft Security Documentation
+### Microsoft Security Documentation
 
-Microsoft Sentinel Documentation  
+The following Microsoft documentation sources were referenced to understand how security analysts monitor authentication activity, investigate suspicious sign in behavior, and implement identity protection controls.
+
+• Microsoft Sentinel Documentation  
 https://learn.microsoft.com/en-us/azure/sentinel/
 
-Microsoft Entra ID Sign in Log Documentation  
+• Microsoft Entra ID Sign in Log Documentation  
 https://learn.microsoft.com/en-us/entra/identity/monitoring-health/concept-sign-ins
 
-Kusto Query Language Documentation  
+• Kusto Query Language Documentation  
 https://learn.microsoft.com/en-us/azure/data-explorer/kusto/query/
 
-Microsoft Entra Conditional Access Documentation  
+• Microsoft Entra Conditional Access Documentation  
 https://learn.microsoft.com/en-us/entra/identity/conditional-access/
 
 ---
