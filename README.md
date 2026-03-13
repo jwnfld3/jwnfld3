@@ -40,7 +40,7 @@ This workflow demonstrates how identity security incidents are analyzed and docu
 
 ---
 
-# Detection Rules
+## Detection Rules
 
 The following detection queries simulate security monitoring rules used by Security Operations Center teams to identify suspicious authentication and identity related activity.
 
@@ -54,8 +54,7 @@ The following detection queries simulate security monitoring rules used by Secur
 | Token Theft Detection | Detects abnormal authentication token activity | https://github.com/jwnfld3/enterprise-identity-incident-investigation/blob/main/detections/token-theft-detection.md |
 
 ---
-
-#Evidence Collection
+## Evidence Collection
 
 The following simulated security incidents were investigated as part of this lab environment.
 
@@ -69,7 +68,6 @@ The following simulated security incidents were investigated as part of this lab
 | CASE-006 | Token Theft Activity | https://github.com/jwnfld3/enterprise-identity-incident-investigation/blob/main/case-files/case-006-token-theft.md |
 | CASE-007 | Data Exfiltration Investigation | https://github.com/jwnfld3/enterprise-identity-incident-investigation/blob/main/case-files/case-007-data-exfiltration.md |
 
----
 
 ## Incident Response Playbooks
 
