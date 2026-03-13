@@ -26,6 +26,25 @@ The sections below provide a structured overview of the investigation workflow u
 
 ---
 
+---
+
+## Investigation Workflow
+
+This lab follows a structured Security Operations Center investigation workflow used to analyze identity-based security alerts.
+
+The investigation process includes the following stages:
+
+| Stage | Description |
+|------|-------------|
+| Detection | Security monitoring identifies suspicious authentication activity using KQL detection queries. |
+| Evidence Collection | Authentication logs and supporting evidence are collected for analysis. |
+| Investigation | Analysts review logs and identify indicators of suspicious behavior. |
+| MITRE ATT&CK Mapping | Observed activity is mapped to known adversary techniques. |
+| Remediation | Incident response playbooks are used to contain and resolve the security event. |
+
+---
+
+This workflow demonstrates how identity security incidents are analyzed and documented within enterprise cloud environments.
 ## Investigation Scenarios
 
 The following simulated security incidents were investigated as part of this lab environment.
@@ -85,6 +104,16 @@ https://learn.microsoft.com/en-us/azure/data-explorer/kusto/query/
 
 MITRE ATT&CK Framework  
 https://attack.mitre.org/
+
+---
+
+# Detailed Investigation Documentation
+
+The sections below contain the full investigation documentation, detection logic, and remediation procedures used throughout this lab environment.
+
+These sections provide deeper technical detail for each investigation scenario.
+
+---
 
 # Project Overview
 
