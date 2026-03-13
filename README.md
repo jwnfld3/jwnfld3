@@ -16,16 +16,6 @@ The scenarios documented in this repository include authentication attacks, cred
 
 The sections below provide a structured overview of the investigation workflow used in this lab. Each section contains documentation demonstrating how identity based security incidents were detected, investigated, and remediated.
 
-| Section | Description | Link |
-|--------|-------------|------|
-| Detection Rules | KQL detection logic used to identify suspicious authentication activity in Microsoft Sentinel | https://github.com/jwnfld3/enterprise-identity-incident-investigation/tree/main/detections |
-| Evidence Logs | Authentication logs, attack simulations, and supporting investigation evidence used during incident analysis | https://github.com/jwnfld3/enterprise-identity-incident-investigation/tree/main/evidence |
-| Investigation Case Files | Detailed SOC style investigation reports documenting how each incident was analyzed | https://github.com/jwnfld3/enterprise-identity-incident-investigation/tree/main/case-files |
-| Incident Response Playbooks | Step by step remediation procedures used to respond to identity based security incidents | https://github.com/jwnfld3/enterprise-identity-incident-investigation/tree/main/playbooks |
-| Threat Intelligence | Detection query references and threat intelligence correlations used to support investigations | https://github.com/jwnfld3/enterprise-identity-incident-investigation/tree/main/threat-intelligence |
-
----
-
 ---
 
 ## Investigation Workflow
@@ -46,6 +36,9 @@ The investigation process includes the following stages:
 
 This workflow demonstrates how identity security incidents are analyzed and documented within enterprise cloud environments.
 ## Investigation Scenarios
+
+
+---
 
 The following simulated security incidents were investigated as part of this lab environment.
 
