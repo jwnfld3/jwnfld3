@@ -137,10 +137,16 @@ Phishing Analysis
 
 ## Full Portfolio Project Index
 
+This repository contains a collection of enterprise identity security
+investigations designed to demonstrate detection engineering, threat
+analysis, and structured incident response procedures.
 
-This repository demonstrates enterprise identity security investigations,
-detection engineering, and incident response procedures using Microsoft
-Entra ID, Microsoft 365, and Microsoft Sentinel.
+The investigations simulate real-world identity-based attack scenarios
+within enterprise Microsoft environments using Microsoft Entra ID,
+Microsoft 365, and Microsoft Sentinel. Each case documents the
+investigation process, identifies adversary techniques using the
+MITRE ATT&CK framework, and outlines remediation actions used to
+contain and resolve the security event.
 
 ## Security Incident Investigation Dashboard
 
