@@ -150,6 +150,15 @@ contain and resolve the security event.
 
 ## Security Incident Investigation Dashboard
 
+### Investigation Summary
+
+Total Cases: 7  
+Critical Severity Incidents: 2  
+High Severity Incidents: 3  
+Medium Severity Incidents: 1  
+Resolved Investigations: 7  
+Open Investigations: 0
+
 | Case Identifier | Investigation | Severity | MITRE ATT&CK Technique | Status | Investigation Report |
 |--------|---------------|----------|------------------------|--------|---------------------|
 | CASE-001 | Password Spray Attack | High | T1110.003 Password Spraying | Resolved | [View Investigation](https://github.com/jwnfld3/enterprise-identity-incident-investigation/blob/main/case-files/case-001-password-spray.md) |
