@@ -69,6 +69,78 @@ The following simulated security incidents were investigated as part of this lab
 | CASE-006 | Token Theft Activity | https://github.com/jwnfld3/enterprise-identity-incident-investigation/blob/main/case-files/case-006-token-theft.md |
 | CASE-007 | Data Exfiltration Investigation | https://github.com/jwnfld3/enterprise-identity-incident-investigation/blob/main/case-files/case-007-data-exfiltration.md |
 
+## Investigation
+
+The security investigation performed in this lab is based on the enterprise identity incident investigation project available in the repository below.
+
+Project Repository  
+https://github.com/jwnfld3/enterprise-identity-incident-investigation
+
+This project simulates identity related security incidents within an enterprise environment and documents how security analysts investigate suspicious authentication activity across Microsoft identity systems.
+
+The investigation process focuses on identifying abnormal login behavior, analyzing authentication logs, correlating security events, and determining whether the activity represents a potential account compromise or other malicious behavior.
+
+### Investigation Environment
+
+The simulated enterprise environment used for the investigation includes several common enterprise technologies used in identity management and security monitoring.
+
+• Windows Server 2022  
+• Active Directory Domain Services  
+• Microsoft 365  
+• Microsoft Entra ID  
+• Microsoft Intune  
+• Windows 11 client systems  
+• Hyper V virtualization  
+
+These technologies were used to simulate enterprise authentication activity and identity security monitoring scenarios. Enterprise environments commonly rely on centralized identity platforms and authentication services to manage user access and enforce security policies.
+
+### Investigation Approach
+
+The investigation followed a structured process similar to the workflow used by security operations center analysts.
+
+1. Identify suspicious authentication activity.
+
+   Investigation begins by reviewing authentication alerts or abnormal login behavior that may indicate a compromised account or unauthorized access attempt.
+
+2. Review authentication logs.
+
+   Security analysts analyze authentication events such as login failures, login successes, and multi factor authentication requests to determine whether abnormal patterns are present.
+
+3. Correlate events across systems.
+
+   Authentication events are compared with other security events to determine whether the activity is isolated or part of a broader attack pattern.
+
+4. Identify indicators of compromise.
+
+   Analysts look for indicators that suggest malicious activity, such as repeated authentication failures, abnormal login locations, or suspicious device access.
+
+5. Document findings.
+
+   All investigation results are documented in structured incident reports that describe the suspicious activity, the analysis performed, and the recommended remediation actions.
+
+### Investigation Objective
+
+The goal of the investigation is to simulate real world blue team analysis performed by security analysts when responding to identity related security incidents. By analyzing authentication logs and correlating security events, analysts can determine whether suspicious activity represents a legitimate security threat or normal system behavior.
+
+This investigation helps demonstrate how security analysts detect potential identity compromise, analyze authentication patterns, and document incident response procedures within enterprise environments.
+
+---
+
+## MITRE ATT&CK Mapping
+
+The incident scenarios investigated in this project were mapped to the MITRE ATT&CK framework to identify the adversary tactics and techniques associated with each activity. The MITRE ATT&CK framework is a widely used knowledge base that documents real-world attacker behavior based on observed threat actor techniques.
+
+Mapping incidents to ATT&CK techniques helps security analysts understand how attackers operate during different phases of an intrusion. It also assists defenders in building detection strategies, improving monitoring, and strengthening defensive controls.
+
+| Incident Scenario | ATT&CK Tactic | Tactic ID | Technique | Technique ID | MITRE Reference | Detection Notes |
+|-------------------|--------------|-----------|-----------|--------------|-----------------|----------------|
+| Identity Compromise Investigation | Credential Access | TA0006 | Valid Accounts | T1078 | https://attack.mitre.org/techniques/T1078/ | Monitor authentication logs for unusual login locations, abnormal login times, or privilege escalation activity. |
+| MFA Fatigue Attack | Credential Access | TA0006 | Multi Factor Authentication Request Generation | T1621 | https://attack.mitre.org/techniques/T1621/ | Detect excessive MFA push requests, repeated authentication attempts, or suspicious login approvals from unfamiliar devices. |
+| Phishing Attack Investigation | Initial Access | TA0001 | Phishing | T1566 | https://attack.mitre.org/techniques/T1566/ | Monitor email gateways for malicious attachments, suspicious links, or abnormal email patterns targeting employees. |
+| Data Exfiltration Investigation | Exfiltration | TA0010 | Exfiltration Over Web Services | T1567 | https://attack.mitre.org/techniques/T1567/ | Identify large outbound data transfers, abnormal uploads to external services, or unusual network traffic patterns. |
+| Conditional Access Policy Bypass Attempt | Defense Evasion | TA0005 | Modify Authentication Process | T1556 | https://attack.mitre.org/techniques/T1556/ | Monitor changes to authentication policies, identity provider configurations, or conditional access rule modifications. |
+
+---
 
 ## Incident Response Playbooks
 
