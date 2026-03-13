@@ -40,6 +40,23 @@ This workflow demonstrates how identity security incidents are analyzed and docu
 
 ---
 
+# Detection Rules
+
+The following detection queries simulate security monitoring rules used by Security Operations Center teams to identify suspicious authentication and identity related activity.
+
+| Detection | Description | Link |
+|-----------|-------------|------|
+| Data Exfiltration Detection | Identifies abnormal file download activity from SharePoint and OneDrive | https://github.com/jwnfld3/enterprise-identity-incident-investigation/blob/main/detections/data-exfiltration-detection.md |
+| Impossible Travel Detection | Detects geographically impossible authentication attempts | https://github.com/jwnfld3/enterprise-identity-incident-investigation/blob/main/detections/impossible-travel-detection.md |
+| MFA Fatigue Detection | Detects repeated multi factor authentication prompts | https://github.com/jwnfld3/enterprise-identity-incident-investigation/blob/main/detections/mfa-fatigue-detection.md |
+| Password Spray Detection | Detects authentication attempts targeting multiple accounts | https://github.com/jwnfld3/enterprise-identity-incident-investigation/blob/main/detections/password-spray-detection.md |
+| Phishing Login Detection | Detects suspicious login behavior following phishing activity | https://github.com/jwnfld3/enterprise-identity-incident-investigation/blob/main/detections/phishing-login-detection.md |
+| Token Theft Detection | Detects abnormal authentication token activity | https://github.com/jwnfld3/enterprise-identity-incident-investigation/blob/main/detections/token-theft-detection.md |
+
+---
+
+#Evidence Collection
+
 The following simulated security incidents were investigated as part of this lab environment.
 
 | Case ID | Incident Type | Investigation File |
@@ -178,52 +195,6 @@ The goal of this project was to learn how Security Operations Center analysts in
 
 ---
 
-# Detection Rules
-
-The following detection queries simulate security monitoring rules used by Security Operations Center teams to identify suspicious authentication and identity related activity.
-
-| Detection | Description | Link |
-|-----------|-------------|------|
-| Data Exfiltration Detection | Identifies abnormal file download activity from SharePoint and OneDrive | https://github.com/jwnfld3/enterprise-identity-incident-investigation/blob/main/detections/data-exfiltration-detection.md |
-| Impossible Travel Detection | Detects geographically impossible authentication attempts | https://github.com/jwnfld3/enterprise-identity-incident-investigation/blob/main/detections/impossible-travel-detection.md |
-| MFA Fatigue Detection | Detects repeated multi factor authentication prompts | https://github.com/jwnfld3/enterprise-identity-incident-investigation/blob/main/detections/mfa-fatigue-detection.md |
-| Password Spray Detection | Detects authentication attempts targeting multiple accounts | https://github.com/jwnfld3/enterprise-identity-incident-investigation/blob/main/detections/password-spray-detection.md |
-| Phishing Login Detection | Detects suspicious login behavior following phishing activity | https://github.com/jwnfld3/enterprise-identity-incident-investigation/blob/main/detections/phishing-login-detection.md |
-| Token Theft Detection | Detects abnormal authentication token activity | https://github.com/jwnfld3/enterprise-identity-incident-investigation/blob/main/detections/token-theft-detection.md |
-
----
-
-# Investigation Case Files
-
-The following case files document simulated identity security incidents investigated using Microsoft Sentinel authentication logs and security telemetry.
-
-| Case | Description | Link |
-|------|-------------|------|
-| CASE-001 Password Spray | Investigation of credential spraying attack targeting multiple user accounts | https://github.com/jwnfld3/enterprise-identity-incident-investigation/blob/main/case-files/case-001-password-spray.md |
-| CASE-002 Identity Compromise | Investigation of suspected compromised user account | https://github.com/jwnfld3/enterprise-identity-incident-investigation/blob/main/case-files/case-002-identity-compromise.md |
-| CASE-003 MFA Fatigue | Investigation of repeated multi factor authentication prompts | https://github.com/jwnfld3/enterprise-identity-incident-investigation/blob/main/case-files/case-003-mfa-fatigue.md |
-| CASE-004 Impossible Travel | Investigation of authentication attempts from geographically distant locations | https://github.com/jwnfld3/enterprise-identity-incident-investigation/blob/main/case-files/case-004-impossible-travel.md |
-| CASE-005 Phishing Login | Investigation of suspicious login activity related to phishing | https://github.com/jwnfld3/enterprise-identity-incident-investigation/blob/main/case-files/case-005-phishing-login.md |
-| CASE-006 Token Theft | Investigation of authentication token abuse | https://github.com/jwnfld3/enterprise-identity-incident-investigation/blob/main/case-files/case-006-token-theft.md |
-| CASE-007 Data Exfiltration | Investigation of suspicious file download activity | https://github.com/jwnfld3/enterprise-identity-incident-investigation/blob/main/case-files/case-007-data-exfiltration.md |
-
----
-
-# Incident Response Playbooks
-
-The following playbooks document investigation and remediation procedures for identity based security incidents simulated within this lab environment.
-
-| Playbook | Description | Link |
-|----------|-------------|------|
-| Conditional Access Policy Block Remediation | Procedures for reviewing and validating Conditional Access policy blocks | https://github.com/jwnfld3/enterprise-identity-incident-investigation/blob/main/playbooks/conditional-access-policy-block-remediation.md |
-| Identity Compromise Remediation | Response procedures for compromised user identities | https://github.com/jwnfld3/enterprise-identity-incident-investigation/blob/main/playbooks/identity-compromise-remediation.md |
-| Impossible Travel Login Remediation | Investigation procedures for suspicious geographic login activity | https://github.com/jwnfld3/enterprise-identity-incident-investigation/blob/main/playbooks/impossible-travel-login-remediation.md |
-| MFA Fatigue Attack Remediation | Investigation procedures for repeated MFA prompts | https://github.com/jwnfld3/enterprise-identity-incident-investigation/blob/main/playbooks/mfa-fatigue-attack-incident-remediation.md |
-| Password Spray Attack Remediation | Investigation procedures for credential spray attacks | https://github.com/jwnfld3/enterprise-identity-incident-investigation/blob/main/playbooks/password-spray-attack-remediation.md |
-| Phishing Attack Remediation | Investigation procedures for phishing related credential compromise | https://github.com/jwnfld3/enterprise-identity-incident-investigation/blob/main/playbooks/phishing-attack-remediation.md |
-| Data Exfiltration Investigation Remediation | Investigation procedures for suspicious file downloads | https://github.com/jwnfld3/enterprise-identity-incident-investigation/blob/main/playbooks/data-exfiltration-investigation-remediation.md |
-
----
 
 # Documentation Sources
 
