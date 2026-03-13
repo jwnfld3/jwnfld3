@@ -1,4 +1,4 @@
-# Enterprise Identity Incident Investigation Lab
+# Enterprise Identity Incident Investigation
 ![Microsoft Sentinel](https://img.shields.io/badge/Microsoft-Sentinel-0078D4?logo=microsoftazure&logoColor=white)
 ![Microsoft Entra ID](https://img.shields.io/badge/Microsoft-Entra%20ID-5C2D91?logo=microsoft&logoColor=white)
 ![Microsoft 365](https://img.shields.io/badge/Microsoft-365-D83B01?logo=microsoftoffice&logoColor=white)
