@@ -54,6 +54,7 @@ The following detection queries simulate security monitoring rules used by Secur
 | Token Theft Detection | Detects abnormal authentication token activity | https://github.com/jwnfld3/enterprise-identity-incident-investigation/blob/main/detections/token-theft-detection.md |
 
 ---
+
 ## Evidence Collection
 
 The following simulated security incidents were investigated as part of this lab environment.
