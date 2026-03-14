@@ -14,62 +14,82 @@ My projects demonstrate how security analysts detect suspicious authentication a
 
 # Featured Security Projects
 
-## Enterprise Identity Incident Investigation
+<table>
+<tr>
+<td>
 
-A blue team security investigation project demonstrating how identity based security incidents can be detected, investigated, and remediated using Microsoft Sentinel, Microsoft Entra ID authentication logs, and the MITRE ATT&CK framework.
+### Enterprise Identity Incident Investigation
 
-This project simulates the workflow used by Security Operations Center analysts when responding to suspicious authentication activity in enterprise Microsoft cloud environments.
+A blue team investigation project demonstrating how identity based security incidents can be detected, investigated, and remediated using Microsoft Sentinel, Microsoft Entra ID authentication logs, and the MITRE ATT&CK framework.
 
-Key areas demonstrated in the project include detection queries, authentication log analysis, investigation of identity compromise scenarios, MITRE ATT&CK technique mapping, and incident response playbooks.
+![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=jwnfld3&repo=enterprise-identity-incident-investigation&theme=github_dark)
 
-View the full investigation repository:
+</td>
+<td>
 
-https://github.com/jwnfld3/enterprise-identity-incident-investigation
+### Conditional Access and MFA Security Project
 
----
+A project focused on implementing Conditional Access policies and multi factor authentication to strengthen enterprise identity security.
 
-## Hybrid Identity Security Investigation
+![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=jwnfld3&repo=idmgmt&theme=github_dark)
 
-A lab environment demonstrating investigation of authentication activity across hybrid identity systems including Active Directory Domain Services and Microsoft Entra ID.
-
-The project focuses on understanding how authentication events appear across on premises and cloud identity platforms and how analysts investigate suspicious login behavior.
-
----
-
-## Microsoft 365 Security Investigation Lab
-
-A project focused on investigating suspicious activity across Microsoft 365 services including Exchange Online, SharePoint, and OneDrive.
-
-The lab demonstrates authentication monitoring, log analysis, and investigation of abnormal access patterns within Microsoft cloud environments.
+</td>
+</tr>
+</table>
 
 ---
 
-## Microsoft Intune Device Security Lab
+# Supporting Infrastructure Labs
 
-A hands on environment demonstrating device management and security monitoring using Microsoft Intune.
+These labs demonstrate the enterprise environments used to perform security investigations and identity monitoring.
 
-The lab focuses on endpoint management, policy enforcement, device compliance monitoring, and investigation of device related security alerts.
+<table>
+<tr>
+<td>
+
+### Azure Identity Access Management
+
+A lab demonstrating identity governance and access control using Microsoft Entra ID, role based access control, and Conditional Access policies.
+
+![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=jwnfld3&repo=azure-access-mgmt&theme=github_dark)
+
+</td>
+<td>
+
+### Windows 11 Hyper V Lab
+
+A virtualization environment used to build and test enterprise identity and security lab scenarios.
+
+![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=jwnfld3&repo=windows11-hyper-v&theme=github_dark)
+
+</td>
+</tr>
+</table>
 
 ---
 
 # Security Investigation Workflow
 
-The investigation workflow demonstrated in the projects follows a structured Security Operations Center investigation process.
+The projects in this portfolio demonstrate a structured Security Operations Center investigation process.
 
 Detection  
-Security monitoring tools identify suspicious authentication activity using detection queries and alerting rules.
+Security monitoring tools identify suspicious authentication activity.
 
 Evidence Collection  
-Authentication logs and supporting artifacts are collected for analysis.
+Authentication logs and supporting artifacts are gathered for analysis.
 
 Investigation  
-Security analysts review authentication patterns to determine whether activity represents a legitimate event or potential compromise.
+Security analysts review authentication patterns and identify indicators of compromise.
 
 MITRE ATT&CK Mapping  
-Observed activity is mapped to known attacker tactics and techniques.
+Observed activity is mapped to attacker tactics and techniques.
 
 Remediation  
-Incident response playbooks are used to contain and resolve security incidents.
+Incident response playbooks are used to contain and resolve security events.
+
+Workflow Summary
+
+Detection → Evidence → Investigation → MITRE Mapping → Remediation
 
 ---
 
@@ -81,14 +101,14 @@ Microsoft 365 Administration
 Microsoft Entra ID Identity Management  
 Incident Response Documentation  
 Security Event Correlation  
-Security Monitoring and Detection
+Security Monitoring
 
 ---
 
 # Additional Areas of Experience
 
 Microsoft 365 administration  
-Endpoint management with Microsoft Intune  
+Endpoint management using Microsoft Intune  
 Active Directory administration  
 Enterprise technical support  
 Security documentation and investigation reporting
@@ -105,8 +125,8 @@ https://github.com/jwnfld3?tab=repositories
 
 ---
 
-# Portfolio Notes
+# Portfolio Overview
 
 All projects in this portfolio were developed in controlled lab environments to simulate enterprise security investigations.
 
-The goal of these projects is to demonstrate practical security operations skills including authentication monitoring, identity investigation, log analysis, and incident response documentation.
+These projects demonstrate practical skills used by Security Operations Center analysts including authentication monitoring, identity investigation, log analysis, incident documentation, and remediation planning.
