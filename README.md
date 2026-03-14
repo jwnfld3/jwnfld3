@@ -14,7 +14,12 @@ The scenarios documented in this repository include authentication attacks, cred
 ---
 ## Quick Navigation
 
-The sections below provide a structured overview of the investigation workflow used in this lab. Each section contains documentation demonstrating how identity based security incidents were detected, investigated, and remediated.
+- [Investigation Workflow](#investigation-workflow)
+- [Incident Investigations](#incident-investigations)
+- [MITRE ATT&CK Mapping](#mitre-attck-mapping)
+- [Investigation Methodology](#investigation-methodology)
+- [Remediation Playbooks](#remediation-playbooks)
+- [Documentation Sources](#documentation-sources)
 
 ---
 
@@ -132,14 +137,12 @@ The incident scenarios investigated in this project were mapped to the MITRE ATT
 
 Mapping incidents to ATT&CK techniques helps security analysts understand how attackers operate during different phases of an intrusion. It also assists defenders in building detection strategies, improving monitoring, and strengthening defensive controls.
 
-| Incident Scenario | ATT&CK Tactic | Tactic ID | Technique | Technique ID | MITRE Reference | Detection Notes |
-|-------------------|--------------|-----------|-----------|--------------|-----------------|----------------|
-| Identity Compromise Investigation | Credential Access | TA0006 | Valid Accounts | T1078 | https://attack.mitre.org/techniques/T1078/ | Monitor authentication logs for unusual login locations, abnormal login times, or privilege escalation activity. |
-| MFA Fatigue Attack | Credential Access | TA0006 | Multi Factor Authentication Request Generation | T1621 | https://attack.mitre.org/techniques/T1621/ | Detect excessive MFA push requests, repeated authentication attempts, or suspicious login approvals from unfamiliar devices. |
-| Phishing Attack Investigation | Initial Access | TA0001 | Phishing | T1566 | https://attack.mitre.org/techniques/T1566/ | Monitor email gateways for malicious attachments, suspicious links, or abnormal email patterns targeting employees. |
-| Data Exfiltration Investigation | Exfiltration | TA0010 | Exfiltration Over Web Services | T1567 | https://attack.mitre.org/techniques/T1567/ | Identify large outbound data transfers, abnormal uploads to external services, or unusual network traffic patterns. |
-| Conditional Access Policy Bypass Attempt | Defense Evasion | TA0005 | Modify Authentication Process | T1556 | https://attack.mitre.org/techniques/T1556/ | Monitor changes to authentication policies, identity provider configurations, or conditional access rule modifications. |
-
+| Incident Scenario | Tactic | Tactic ID | Technique | Technique ID |
+|------------------|--------|-----------|-----------|--------------|
+| Identity Compromise Investigation | Credential Access | TA0006 | Valid Accounts | T1078 |
+| MFA Fatigue Attack | Credential Access | TA0006 | Multi Factor Authentication Request Generation | T1621 |
+| Conditional Access Policy Block | Defense Evasion | TA0005 | Valid Accounts | T1078 |
+| Data Exfiltration Investigation | Exfiltration | TA0010 | Exfiltration Over Web Services | T1567 |
 ---
 
 ## Incident Response Playbooks
