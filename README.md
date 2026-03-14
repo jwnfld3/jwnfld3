@@ -32,7 +32,7 @@ A project focused on strengthening enterprise identity security through Conditio
 This project demonstrates how identity access policies can be configured to protect enterprise resources and reduce the risk of compromised credentials.
 
 View the project  
-https://github.com/jwnfld3/idmgmt
+https://github.com/jwnfld3/conditional-access-mfa-security
 
 ---
 
@@ -47,18 +47,18 @@ A lab demonstrating identity governance and access control using Microsoft Entra
 The project focuses on identity administration, access control configuration, and security policy enforcement in Azure environments.
 
 View the project  
-https://github.com/jwnfld3/azure-access-mgmt
+https://github.com/jwnfld3/azure-identity-access-management
 
 ---
 
-## Windows 11 Hyper V Lab
+## Windows Hyper V Virtualization Lab
 
 A virtualization environment used to build and test enterprise identity and security lab scenarios.
 
 This lab demonstrates how Hyper V virtualization can be used to create enterprise test environments for security investigation and system administration practice.
 
 View the project  
-https://github.com/jwnfld3/windows11-hyper-v
+https://github.com/jwnfld3/hyper-v-windows11-lab
 
 ---
 
@@ -81,9 +81,9 @@ Observed activity is mapped to attacker tactics and techniques.
 **Remediation**  
 Incident response playbooks are used to contain and resolve security events.
 
-**Workflow Summary**
+Workflow Summary
 
-**Detection → Evidence → Investigation → MITRE Mapping → Remediation**
+Detection → Evidence → Investigation → MITRE Mapping → Remediation
 
 ---
 
@@ -124,3 +124,47 @@ https://github.com/jwnfld3?tab=repositories
 All projects in this portfolio were developed in controlled lab environments to simulate enterprise security investigations.
 
 These projects demonstrate practical skills used by Security Operations Center analysts including authentication monitoring, identity investigation, log analysis, incident documentation, and remediation planning.
+
+---
+
+# Documentation Sources
+
+The projects in this portfolio were developed through hands on practice and by referencing official vendor documentation and widely used cybersecurity frameworks.
+
+### Microsoft Security Documentation
+
+Microsoft Sentinel Documentation  
+https://learn.microsoft.com/en-us/azure/sentinel/
+
+Microsoft Entra ID Sign-in Log Documentation  
+https://learn.microsoft.com/en-us/entra/identity/monitoring-health/concept-sign-ins
+
+Microsoft Entra Conditional Access Documentation  
+https://learn.microsoft.com/en-us/entra/identity/conditional-access/
+
+Kusto Query Language Documentation  
+https://learn.microsoft.com/en-us/azure/data-explorer/kusto/query/
+
+### Security Frameworks
+
+MITRE ATT&CK Framework  
+https://attack.mitre.org/
+
+MITRE ATT&CK Enterprise Matrix  
+https://attack.mitre.org/matrices/enterprise/
+
+### Additional Technical Resources
+
+Microsoft 365 Security Documentation  
+https://learn.microsoft.com/en-us/microsoft-365/security/
+
+Azure Identity Protection Documentation  
+https://learn.microsoft.com/en-us/entra/id-protection/
+
+---
+
+# Project Transparency
+
+All projects in this portfolio were developed in controlled lab environments for educational and professional development purposes.
+
+The scenarios simulate common identity security incidents that security analysts investigate in enterprise Microsoft cloud environments.
