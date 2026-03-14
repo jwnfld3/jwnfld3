@@ -12,16 +12,6 @@ The project simulates the workflow used by Security Operations Center analysts w
 The scenarios documented in this repository include authentication attacks, credential compromise activity, suspicious login patterns, and potential data exfiltration behavior.
 
 ---
-## Quick Navigation
-
-- [Investigation Workflow](#investigation-workflow)
-- [Incident Investigations](#incident-investigations)
-- [MITRE ATT&CK Mapping](#mitre-attck-mapping)
-- [Investigation Methodology](#investigation-methodology)
-- [Remediation Playbooks](#remediation-playbooks)
-- [Documentation Sources](#documentation-sources)
-
----
 
 ## Investigation Workflow
 
@@ -36,12 +26,6 @@ The investigation process includes the following stages:
 | Investigation | Analysts review logs and identify indicators of suspicious behavior. |
 | MITRE ATT&CK Mapping | Observed activity is mapped to known adversary techniques. |
 | Remediation | Incident response playbooks are used to contain and resolve the security event. |
-
----
-
-This workflow demonstrates how identity security incidents are analyzed and documented within enterprise cloud environments.
-## Investigation Scenarios
-
 
 ---
 
