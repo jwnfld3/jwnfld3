@@ -14,57 +14,51 @@ My projects demonstrate how security analysts detect suspicious authentication a
 
 # Featured Security Projects
 
-<table>
-<tr>
-<td>
-
-### Enterprise Identity Incident Investigation
+## Enterprise Identity Incident Investigation
 
 A blue team investigation project demonstrating how identity based security incidents can be detected, investigated, and remediated using Microsoft Sentinel, Microsoft Entra ID authentication logs, and the MITRE ATT&CK framework.
 
-![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=jwnfld3&repo=enterprise-identity-incident-investigation&theme=github_dark)
+The project simulates the workflow used by Security Operations Center analysts when responding to suspicious authentication activity in enterprise Microsoft environments. It includes detection rules, authentication log analysis, investigation case files, MITRE ATT&CK mapping, and incident response playbooks.
 
-</td>
-<td>
+View the project  
+https://github.com/jwnfld3/enterprise-identity-incident-investigation
 
-### Conditional Access and MFA Security Project
+---
 
-A project focused on implementing Conditional Access policies and multi factor authentication to strengthen enterprise identity security.
+## Conditional Access and MFA Security Project
 
-![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=jwnfld3&repo=idmgmt&theme=github_dark)
+A project focused on strengthening enterprise identity security through Conditional Access policies and multi factor authentication.
 
-</td>
-</tr>
-</table>
+This project demonstrates how identity access policies can be configured to protect enterprise resources and reduce the risk of compromised credentials.
+
+View the project  
+https://github.com/jwnfld3/idmgmt
 
 ---
 
 # Supporting Infrastructure Labs
 
-These labs demonstrate the enterprise environments used to perform security investigations and identity monitoring.
+These labs demonstrate the enterprise environments used to perform identity security investigations and authentication monitoring.
 
-<table>
-<tr>
-<td>
-
-### Azure Identity Access Management
+## Azure Identity Access Management
 
 A lab demonstrating identity governance and access control using Microsoft Entra ID, role based access control, and Conditional Access policies.
 
-![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=jwnfld3&repo=azure-access-mgmt&theme=github_dark)
+The project focuses on identity administration, access control configuration, and security policy enforcement in Azure environments.
 
-</td>
-<td>
+View the project  
+https://github.com/jwnfld3/azure-access-mgmt
 
-### Windows 11 Hyper V Lab
+---
+
+## Windows 11 Hyper V Lab
 
 A virtualization environment used to build and test enterprise identity and security lab scenarios.
 
-![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=jwnfld3&repo=windows11-hyper-v&theme=github_dark)
+This lab demonstrates how Hyper V virtualization can be used to create enterprise test environments for security investigation and system administration practice.
 
-</td>
-</tr>
-</table>
+View the project  
+https://github.com/jwnfld3/windows11-hyper-v
 
 ---
 
@@ -72,24 +66,24 @@ A virtualization environment used to build and test enterprise identity and secu
 
 The projects in this portfolio demonstrate a structured Security Operations Center investigation process.
 
-Detection  
+**Detection**  
 Security monitoring tools identify suspicious authentication activity.
 
-Evidence Collection  
+**Evidence Collection**  
 Authentication logs and supporting artifacts are gathered for analysis.
 
-Investigation  
+**Investigation**  
 Security analysts review authentication patterns and identify indicators of compromise.
 
-MITRE ATT&CK Mapping  
+**MITRE ATT&CK Mapping**  
 Observed activity is mapped to attacker tactics and techniques.
 
-Remediation  
+**Remediation**  
 Incident response playbooks are used to contain and resolve security events.
 
-Workflow Summary
+**Workflow Summary**
 
-Detection → Evidence → Investigation → MITRE Mapping → Remediation
+**Detection → Evidence → Investigation → MITRE Mapping → Remediation**
 
 ---
 
