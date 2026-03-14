@@ -211,38 +211,22 @@ The repository includes detection logic, investigation case files, supporting ev
 
 # Investigation Workflow Diagram
 
-The repository follows the investigation lifecycle used by Security Operations Center teams when responding to identity related security alerts.
+**Detection**  
+Security monitoring tools such as Microsoft Sentinel identify suspicious authentication activity using detection queries and alerting rules.
 
-```
-             ┌───────────────┐
-             │   Detection   │
-             │  KQL Queries  │
-             └───────┬───────┘
-                     │
-                     ▼
-             ┌───────────────┐
-             │    Evidence   │
-             │ Authentication│
-             │   Log Data    │
-             └───────┬───────┘
-                     │
-                     ▼
-             ┌───────────────┐
-             │ Investigation │
-             │   Case Files  │
-             │  Indicators   │
-             └───────┬───────┘
-                     │
-                     ▼
-             ┌───────────────┐
-             │   Remediation │
-             │   Playbooks   │
-             │  Mitigation   │
-             └───────────────┘
-```
+**Evidence Collection**  
+Authentication logs, sign in data, and other relevant evidence are collected to understand the scope of the activity.
 
-Each section of the repository maps to a stage of the SOC investigation process.
+**Investigation**  
+Security analysts review the collected logs to determine whether the activity represents a legitimate event or a potential compromise.
 
+**MITRE ATT&CK Mapping**  
+Observed activity is mapped to known attacker tactics and techniques to better understand adversary behavior.
+
+**Remediation**  
+Security controls such as Conditional Access policies, account resets, or access restrictions are implemented to secure the environment. Each section of the repository maps to a stage of the SOC investigation process.
+
+**Workflow Summary**  
 detections → evidence → case-files → playbooks → threat-intelligence
 
 ---
