@@ -25,14 +25,10 @@ https://github.com/jwnfld3/enterprise-identity-incident-investigation
 
 ---
 
-## Conditional Access and MFA Security Project
+### Azure Identity and Access Management Lab
+Hands on lab demonstrating identity security concepts including role based access control, authentication monitoring, and access configuration within Microsoft environments.
 
-A project focused on strengthening enterprise identity security through Conditional Access policies and multi factor authentication.
-
-This project demonstrates how identity access policies can be configured to protect enterprise resources and reduce the risk of compromised credentials.
-
-View the project  
-https://github.com/jwnfld3/conditional-access-mfa-security
+https://github.com/jwnfld3/azure-access-mgmt
 
 ---
 
@@ -51,14 +47,10 @@ https://github.com/jwnfld3/azure-identity-access-management
 
 ---
 
-## Windows Hyper V Virtualization Lab
+### Windows Virtualization and Security Lab
+Virtualized Windows environment used to simulate authentication activity, monitor security logs, and practice investigation techniques within a lab environment.
 
-A virtualization environment used to build and test enterprise identity and security lab scenarios.
-
-This lab demonstrates how Hyper V virtualization can be used to create enterprise test environments for security investigation and system administration practice.
-
-View the project  
-https://github.com/jwnfld3/hyper-v-windows11-lab
+https://github.com/jwnfld3/windows11-hyper-v
 
 ---
 
