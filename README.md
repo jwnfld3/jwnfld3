@@ -28,6 +28,19 @@ The project simulates the workflow used by Security Operations Center analysts w
 
 Investigation scenarios were developed in a controlled lab environment designed to simulate enterprise authentication monitoring and identity security incidents.
 
+## Detection Coverage
+
+The investigation environment includes detection rules designed to identify identity based attacks within Microsoft Entra ID and Microsoft Sentinel logs.
+
+| Attack Technique | Detection Rule |
+|------------------|---------------|
+| Password Spray | [Password Spray Detection](https://github.com/jwnfld3/enterprise-identity-incident-investigation/blob/main/detections/password-spray-detection.md) |
+| Impossible Travel | [Impossible Travel Detection](https://github.com/jwnfld3/enterprise-identity-incident-investigation/blob/main/detections/impossible-travel-detection.md) |
+| MFA Fatigue | [MFA Fatigue Detection](https://github.com/jwnfld3/enterprise-identity-incident-investigation/blob/main/detections/mfa-fatigue-detection.md) |
+| Phishing Login | [Phishing Login Detection](https://github.com/jwnfld3/enterprise-identity-incident-investigation/blob/main/detections/phishing-login-detection.md) |
+| Token Theft | [Token Theft Detection](https://github.com/jwnfld3/enterprise-identity-incident-investigation/blob/main/detections/token-theft-detection.md) |
+| Data Exfiltration | [Data Exfiltration Detection](https://github.com/jwnfld3/enterprise-identity-incident-investigation/blob/main/detections/data-exfiltration-detection.md) |
+
 ---
 
 ### Azure Identity and Access Management Lab
