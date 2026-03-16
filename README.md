@@ -36,15 +36,6 @@ https://github.com/jwnfld3/azure-access-mgmt
 
 These labs demonstrate the enterprise environments used to perform identity security investigations and authentication monitoring.
 
-## Azure Identity Access Management
-
-A lab demonstrating identity governance and access control using Microsoft Entra ID, role based access control, and Conditional Access policies.
-
-The project focuses on identity administration, access control configuration, and security policy enforcement in Azure environments.
-
-View the project  
-https://github.com/jwnfld3/azure-identity-access-management
-
 ---
 
 ### Windows Virtualization and Security Lab
