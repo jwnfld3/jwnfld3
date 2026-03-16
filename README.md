@@ -1,8 +1,8 @@
 # James Winfield
 
-IT Support and Cybersecurity Professional focused on identity security, Microsoft cloud environments, authentication monitoring, and incident investigation.
+Cybersecurity professional specializing in identity threat detection, authentication monitoring, and security incident investigation within Microsoft cloud environments.
 
-My projects demonstrate how security analysts detect suspicious authentication activity, investigate identity related alerts, analyze security logs, and implement remediation procedures within enterprise Microsoft environments.
+My projects demonstrate how security analysts detect suspicious authentication activity, investigate identity related alerts, analyze security logs, and implement remediation procedures in enterprise Microsoft environments.
 
 ---
 
