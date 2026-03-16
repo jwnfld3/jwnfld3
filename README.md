@@ -12,6 +12,12 @@ All investigations are performed in a controlled lab environment designed to sim
 
 ---
 
+## SOC Investigation Workflow
+
+User Authentication → Entra ID Logs → Sentinel Detection Rules → Investigation → Response Playbooks
+
+---
+
 ## Core Technologies
 
 ![Microsoft Sentinel](https://img.shields.io/badge/Microsoft-Sentinel-0078D4?logo=microsoftazure&logoColor=white) ![Microsoft Entra ID](https://img.shields.io/badge/Microsoft-Entra%20ID-5C2D91?logo=microsoft&logoColor=white) ![Microsoft 365](https://img.shields.io/badge/Microsoft-365-D83B01?logo=microsoftoffice&logoColor=white) ![Active Directory](https://img.shields.io/badge/Active%20Directory-Domain%20Services-red) ![Windows Server](https://img.shields.io/badge/Windows%20Server-2022-blue) ![Microsoft Intune](https://img.shields.io/badge/Microsoft-Intune-orange) ![Kusto Query Language](https://img.shields.io/badge/KQL-Query%20Language-blue) ![MITRE ATT&CK](https://img.shields.io/badge/MITRE-ATT%26CK-red)
