@@ -12,7 +12,7 @@ My projects demonstrate how security analysts detect suspicious authentication a
 
 ---
 
-# Featured Security Projects
+# Featured Security Investigations
 
 ## Enterprise Identity Incident Investigation
 
