@@ -9,6 +9,7 @@ Cybersecurity professional specializing in identity threat detection, authentica
 My projects demonstrate how security analysts detect suspicious authentication activity, investigate identity related alerts, analyze security logs, and implement remediation procedures in enterprise Microsoft environments.
 
 All investigations are performed in a controlled lab environment designed to simulate enterprise SOC workflows.
+
 ---
 
 ## Core Technologies
