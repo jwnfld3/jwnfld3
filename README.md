@@ -1,7 +1,6 @@
 <p align="center">
   <img src="assetsbanner.png" width="100%" />
 </p>
-
 ## Blue Team Security Analyst Portfolio
 
 Cybersecurity professional specializing in identity threat detection, authentication monitoring, and security incident investigation within Microsoft cloud environments.
