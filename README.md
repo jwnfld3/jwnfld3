@@ -43,6 +43,21 @@ The investigation environment includes detection rules designed to identify iden
 
 ---
 
+## MITRE ATT&CK Detection Matrix
+
+The following matrix maps detection rules and investigation scenarios to relevant MITRE ATT&CK techniques.
+
+| MITRE Technique | Attack Description | Detection Rule | Investigation Case |
+|----------------|-------------------|---------------|-------------------|
+| T1110.003 | Password Spraying | [Password Spray Detection](https://github.com/jwnfld3/enterprise-identity-incident-investigation/blob/main/detections/password-spray-detection.md) | [CASE-006 Password Spray Attack](https://github.com/jwnfld3/enterprise-identity-incident-investigation/blob/main/incidents/case-006-password-spray.md) |
+| T1078 | Valid Accounts | [Impossible Travel Detection](https://github.com/jwnfld3/enterprise-identity-incident-investigation/blob/main/detections/impossible-travel-detection.md) | [CASE-003 Impossible Travel Login](https://github.com/jwnfld3/enterprise-identity-incident-investigation/blob/main/incidents/case-003-impossible-travel.md) |
+| T1621 | MFA Request Generation | [MFA Fatigue Detection](https://github.com/jwnfld3/enterprise-identity-incident-investigation/blob/main/detections/mfa-fatigue-detection.md) | [CASE-002 MFA Fatigue Attack](https://github.com/jwnfld3/enterprise-identity-incident-investigation/blob/main/incidents/case-002-mfa-fatigue.md) |
+| T1566 | Phishing | [Phishing Login Detection](https://github.com/jwnfld3/enterprise-identity-incident-investigation/blob/main/detections/phishing-login-detection.md) | [CASE-009 Phishing Attack Investigation](https://github.com/jwnfld3/enterprise-identity-incident-investigation/blob/main/incidents/case-009-phishing.md) |
+| T1528 | Steal Application Access Token | [Token Theft Detection](https://github.com/jwnfld3/enterprise-identity-incident-investigation/blob/main/detections/token-theft-detection.md) | [CASE-008 Identity Account Compromise](https://github.com/jwnfld3/enterprise-identity-incident-investigation/blob/main/incidents/case-008-identity-account-compromise.md) |
+| T1041 | Exfiltration Over Command and Control Channel | [Data Exfiltration Detection](https://github.com/jwnfld3/enterprise-identity-incident-investigation/blob/main/detections/data-exfiltration-detection.md) | [CASE-007 Data Exfiltration Investigation](https://github.com/jwnfld3/enterprise-identity-incident-investigation/blob/main/incidents/case-007-data-exfiltration.md) |
+
+---
+
 ### Azure Identity and Access Management Lab
 Hands on lab demonstrating identity security concepts including role based access control, authentication monitoring, and access configuration within Microsoft environments.
 
