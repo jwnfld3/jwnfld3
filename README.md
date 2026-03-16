@@ -22,6 +22,8 @@ This repository demonstrates how identity based security incidents can be detect
 
 The project simulates the workflow used by Security Operations Center analysts when investigating suspicious authentication activity in enterprise Microsoft environments. It includes detection rules, authentication log analysis, investigation case files, MITRE ATT&CK technique mapping, and incident response playbooks.
 
+Investigation scenarios were developed in a controlled lab environment designed to simulate enterprise authentication monitoring and identity security incidents.
+
 ---
 
 ### Azure Identity and Access Management Lab
