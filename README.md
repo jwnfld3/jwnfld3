@@ -14,11 +14,11 @@ My projects demonstrate how security analysts detect suspicious authentication a
 
 # Featured Security Investigations
 
-## Enterprise Identity Incident Investigation
+## Blue Team Security Investigation Project
 
-A blue team investigation project demonstrating how identity based security incidents can be detected, investigated, and remediated using Microsoft Sentinel, Microsoft Entra ID authentication logs, and the MITRE ATT&CK framework.
+This repository demonstrates how identity based security incidents can be detected, investigated, and remediated using Microsoft Sentinel, Microsoft Entra ID authentication logs, and the MITRE ATT&CK framework.
 
-The project simulates the workflow used by Security Operations Center analysts when responding to suspicious authentication activity in enterprise Microsoft environments. It includes detection rules, authentication log analysis, investigation case files, MITRE ATT&CK mapping, and incident response playbooks.
+The project simulates the workflow used by Security Operations Center analysts when investigating suspicious authentication activity in enterprise Microsoft environments. It includes detection rules, authentication log analysis, investigation case files, MITRE ATT&CK technique mapping, and incident response playbooks.
 
 View the project  
 https://github.com/jwnfld3/enterprise-identity-incident-investigation
