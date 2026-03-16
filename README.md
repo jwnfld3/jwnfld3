@@ -14,7 +14,15 @@ All investigations are performed in a controlled lab environment designed to sim
 
 ## SOC Investigation Workflow
 
-User Authentication → Entra ID Logs → Sentinel Detection Rules → Investigation → Response Playbooks
+The following workflow demonstrates how identity security events are collected, detected, investigated, and remediated within a Microsoft cloud security environment.
+
+| Stage | Security Process | Platform |
+|------|------|------|
+| 1 | User Authentication Activity | Microsoft Entra ID |
+| 2 | Authentication Logs Collected | Microsoft Entra ID Sign-in Logs |
+| 3 | Threat Detection Rules | Microsoft Sentinel (KQL) |
+| 4 | Security Investigation | SOC Analyst Investigation Cases |
+| 5 | Incident Response | Response Playbooks |
 
 ---
 
